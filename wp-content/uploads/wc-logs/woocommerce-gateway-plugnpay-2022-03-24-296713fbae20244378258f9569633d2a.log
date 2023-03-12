@@ -1,0 +1,20 @@
+2022-03-24T00:37:08+00:00 DEBUG Info: Beginning processing payment for order 1536 for the amount of 442.39
+2022-03-24T00:37:11+00:00 DEBUG 
+Posting to: 
+https://pay1.plugnpay.com/payment/pnpremote.cgi
+Request: 
+x_version=3.1&x_delim_char=%7C&x_delim_data=TRUE&x_relay_response=FALSE&x_encap_char=&x_method=CC&x_amount=442.39&x_card_num=5157+2060+5200+2642&x_exp_date=03%2F22&x_card_code=005&x_first_name=Nesha&x_last_name=Nurse&x_address=21+Valley+View&x_city=St.+George&x_state=ST.GEORGE&x_country=BB&x_zip=BB19193&x_email=neshanurse%40hotmail.com&x_phone=2462301014&x_company=&x_invoice_num=1536&x_description=Moco+-+Order+1536&x_currency_code=BBD&x_customer_ip=72.22.150.223&x_type=AUTH_CAPTURE&x_login=mococontai&x_tran_key=BradCoPay121%23
+Response: 
+1|00|1|This transaction has been approved.|552506||2022032400370827291|1536|Moco - Order 1536|442.39|CC|AUTH_CAPTURE||Nesha|Nurse||21 Valley View|St. George|ST GEORGE|BB19193|BB|2462301014||neshanurse@hotmail.com||||||||||||||||
+
+2022-03-24T00:37:11+00:00 DEBUG Success: Plug'n Pay charge complete (Charge ID: 2022032400370827291)
+2022-03-24T00:43:04+00:00 DEBUG Info: Beginning processing payment for order 1537 for the amount of 910.00
+2022-03-24T00:43:07+00:00 DEBUG 
+Posting to: 
+https://pay1.plugnpay.com/payment/pnpremote.cgi
+Request: 
+x_version=3.1&x_delim_char=%7C&x_delim_data=TRUE&x_relay_response=FALSE&x_encap_char=&x_method=CC&x_amount=910.00&x_card_num=5443+3680+1003+0828&x_exp_date=11%2F22&x_card_code=534&x_first_name=Nesha&x_last_name=Nurse&x_address=21+Valley+View&x_city=St.+George&x_state=ST.GEORGE&x_country=BB&x_zip=BB19193&x_email=neshanurse%40hotmail.com&x_phone=2462301014&x_company=&x_invoice_num=1537&x_description=Moco+-+Order+1537&x_currency_code=BBD&x_customer_ip=72.22.150.223&x_type=AUTH_CAPTURE&x_login=mococontai&x_tran_key=BradCoPay121%23
+Response: 
+1|00|1|This transaction has been approved.|785130||2022032400430425847|1537|Moco - Order 1537|910.00|CC|AUTH_CAPTURE||Nesha|Nurse||21 Valley View|St. George|ST GEORGE|BB19193|BB|2462301014||neshanurse@hotmail.com||||||||||||||||
+
+2022-03-24T00:43:07+00:00 DEBUG Success: Plug'n Pay charge complete (Charge ID: 2022032400430425847)

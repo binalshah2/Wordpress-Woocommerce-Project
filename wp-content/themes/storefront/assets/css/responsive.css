@@ -1,0 +1,93 @@
+
+@media only screen and (max-width:414px){
+	.slider ul.slider-carousel li p{margin-bottom: 30px;}
+	.slider ul.slider-carousel li h1{margin-top: 110px;}
+	.slider ul.slider-carousel li a{width: 80%;display: block;padding: 10px 50px;margin-left: 40px;margin-bottom: 10px;}
+}
+
+@media only screen and (max-width:599px){
+	.detail-main-banner > div {height: 50%;}
+	.banner-content ul li{width: 25%;}
+	header nav{top: 100px;}
+	header .logo img{width: 150px;}
+	.product{width: 100%;}
+	.slick-dotted.slick-slider{width: 325px;margin: 0 auto;}
+	.detail-page .container{height: 100vh;}
+	.detail-page .container > div{height: 90%;width: 96%;margin: 5% auto;}
+	.detail-main{height: 100%;}
+	.detail-main > div{height: 50%;background: transparent;padding: 0;}
+	.product-slider{padding: 0;}
+	.detail-content{background-size: auto;}
+	#slider-wrap ul#slider li{height: 100%;}
+	#slider li img {max-width: 100%;min-height: 100%;}
+	.close-form i{font-size: 16px;padding: 7px 9px;}
+	.conact-form{width: 96%;}
+	.conact-form form label{width: 100%;}
+	.conact-form form input[type="submit"]{line-height: 30px;}
+	.rc_mapaddress{float: none;}
+}
+
+@media only screen and (max-width:992px){	
+	.responsive-nav{display: block;width: 100%;height: 60px;position: relative;left: 0;z-index: 90;}
+	.responsive-nav a img{float: left;vertical-align: middle;margin: 0 15px;display: block;}
+	header{line-height: 50px;}
+	header nav{float: none;text-align: center;width: 100%;background: #fff;position: absolute;display: none;left: 0;z-index: 90;}
+	header nav ul li{line-height: normal;display: block;padding-left: 0;width: 100%;}
+	header a img{display: none;}
+	.toggle{display: block;} 
+	.active{display: block;}
+	.slider,.slider ul.slider-carousel,.slider ul.slider-carousel li{height: 450px;width: 100%;}
+	.banner{height: 70vh;}
+	.crane-icon img{display: block;}
+	.crane-icon ul li{width: 30%;}
+	.crane-icon ul{top: 20%;}
+	.crane-icon h1{top: 45%;}
+	.banner-links li{width: 40%!important;}
+	.banner-links li:after {top: 15px!important;}
+	.nav-tabs > li {padding: 0 0px;}
+	.nav-tabs > li > a{font-size: 17px;padding: 0 5px;border-radius: 0;}
+	.sale-tabs {margin: 0 50px;}
+	.video-content p{width: 85%;}
+	.video{float: left;width: 100%;}
+	.video iframe{width: 100%;height: 250px;}
+	.video-content a{display: inline-block;margin: 20px 60px;}
+	.mascot-content{height: auto;}
+	.detail-content{line-height: initial;}
+	header nav > ul > li:before{display: none;}
+	ul.sub-menu{width: 100%;}
+	.show-child-menu{visibility: visible !important;opacity: 1 !important;z-index: 1 !important;transform: translateY(0%) !important;margin-top: 25px;}
+	header nav > ul > li{position:unset;}
+	.video-content{text-align: center;}
+	header:before{left: 0;width: 100%;webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-ms-transform: rotate(0deg);-o-transform: rotate(0deg);transform: rotate(0deg);}
+	.slick-slider{width: 650px;max-width: 100%;}
+	.slick-slide{margin: 0 4px;opacity: 1;transform: scale(1);}
+	.d-none{display: none;}
+	.d-md-none{display: block;}
+	.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{border-bottom: 0;color: #ff0000;}
+	.tabs-nav{text-align: center;}
+	.tabs-nav li{display:inline-block;float:none;margin: 5px 0;border-right: 1px solid #000000;}
+	.nav-tabs > li:last-child{border:0;}
+	.inner-header .menu-icon span{background:#ff0000;}
+	.product-thumb{text-align: center;}
+	.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img{display: unset !important;}
+	.inner-page{margin: 0 auto;}
+	.inner-page div {max-width: 100%;}
+	.rc_para1:after{display: none;}
+	.rc_para2{float: none;}
+	.rc_cell{width: 100%;}
+	.rc_tablebg{height: 550px;}
+	.inner-page > .row{margin: 0;}
+	.rc_mapaddress{width: 40% !important;}
+	.rc.address{width: 100% !important;}
+}
+
+@media only screen and (min-width:992px){
+	nav li:hover ul {visibility: visible;opacity: 1;z-index: 1;transform: translateY(0%);}
+}
+
+@media only screen and (min-width:599px) and (max-width:992px){
+	header nav{top: 120px;}
+	.banner-content ul li{width: 15%;}
+	header .logo img{width: 200px;}
+	.product{width: 50%;}
+}

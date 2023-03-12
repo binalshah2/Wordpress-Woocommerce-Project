@@ -1,0 +1,38 @@
+2022-05-03T06:36:54+00:00 CRITICAL Uncaught Error: Class 'Automattic\WooCommerce\Admin\Notes\Note' not found in /var/www/html/moco/wp-content/plugins/cart-rest-api-for-woocommerce/includes/admin/notes/class-cocart-wc-admin-note-activate-pro.php:112
+Stack trace:
+#0 /var/www/html/moco/wp-content/plugins/cart-rest-api-for-woocommerce/includes/admin/notes/class-cocart-wc-admin-note-activate-pro.php(59): CoCart_WC_Admin_Activate_Pro_Note::get_note_args()
+#1 /var/www/html/moco/wp-content/plugins/cart-rest-api-for-woocommerce/includes/admin/notes/class-cocart-wc-admin-note-activate-pro.php(41): CoCart_WC_Admin_Activate_Pro_Note::add_note()
+#2 /var/www/html/moco/wp-content/plugins/cart-rest-api-for-woocommerce/includes/admin/notes/class-cocart-wc-admin-note-activate-pro.php(171): CoCart_WC_Admin_Activate_Pro_Note->__construct()
+#3 /var/www/html/moco/wp-content/plugins/cart-rest-api-for-woocommerce/includes/admin/class-cocart-wc-admin-notices.php(51): include_once('/var/www/html/m...')
+#4 /var/www/html/moco/wp-includes/class-wp-hook.php(307): CoCart_WC in /var/www/html/moco/wp-content/plugins/cart-rest-api-for-woocommerce/includes/admin/notes/class-cocart-wc-admin-note-activate-pro.php on line 112
+
+2022-05-03T06:37:09+00:00 CRITICAL Uncaught Error: Class 'Automattic\WooCommerce\Admin\Notes\Note' not found in /var/www/html/moco/wp-content/plugins/cart-rest-api-for-woocommerce/includes/admin/notes/class-cocart-wc-admin-note-activate-pro.php:112
+Stack trace:
+#0 /var/www/html/moco/wp-content/plugins/cart-rest-api-for-woocommerce/includes/admin/notes/class-cocart-wc-admin-note-activate-pro.php(59): CoCart_WC_Admin_Activate_Pro_Note::get_note_args()
+#1 /var/www/html/moco/wp-content/plugins/cart-rest-api-for-woocommerce/includes/admin/notes/class-cocart-wc-admin-note-activate-pro.php(41): CoCart_WC_Admin_Activate_Pro_Note::add_note()
+#2 /var/www/html/moco/wp-content/plugins/cart-rest-api-for-woocommerce/includes/admin/notes/class-cocart-wc-admin-note-activate-pro.php(171): CoCart_WC_Admin_Activate_Pro_Note->__construct()
+#3 /var/www/html/moco/wp-content/plugins/cart-rest-api-for-woocommerce/includes/admin/class-cocart-wc-admin-notices.php(51): include_once('/var/www/html/m...')
+#4 /var/www/html/moco/wp-includes/class-wp-hook.php(307): CoCart_WC in /var/www/html/moco/wp-content/plugins/cart-rest-api-for-woocommerce/includes/admin/notes/class-cocart-wc-admin-note-activate-pro.php on line 112
+
+2022-05-03T06:37:19+00:00 CRITICAL Uncaught Error: Class 'Automattic\WooCommerce\Admin\Notes\Note' not found in /var/www/html/moco/wp-content/plugins/cart-rest-api-for-woocommerce/includes/admin/notes/class-cocart-wc-admin-note-activate-pro.php:112
+Stack trace:
+#0 /var/www/html/moco/wp-content/plugins/cart-rest-api-for-woocommerce/includes/admin/notes/class-cocart-wc-admin-note-activate-pro.php(59): CoCart_WC_Admin_Activate_Pro_Note::get_note_args()
+#1 /var/www/html/moco/wp-content/plugins/cart-rest-api-for-woocommerce/includes/admin/notes/class-cocart-wc-admin-note-activate-pro.php(41): CoCart_WC_Admin_Activate_Pro_Note::add_note()
+#2 /var/www/html/moco/wp-content/plugins/cart-rest-api-for-woocommerce/includes/admin/notes/class-cocart-wc-admin-note-activate-pro.php(171): CoCart_WC_Admin_Activate_Pro_Note->__construct()
+#3 /var/www/html/moco/wp-content/plugins/cart-rest-api-for-woocommerce/includes/admin/class-cocart-wc-admin-notices.php(51): include_once('/var/www/html/m...')
+#4 /var/www/html/moco/wp-includes/class-wp-hook.php(307): CoCart_WC in /var/www/html/moco/wp-content/plugins/cart-rest-api-for-woocommerce/includes/admin/notes/class-cocart-wc-admin-note-activate-pro.php on line 112
+
+2022-05-03T06:37:47+00:00 CRITICAL Uncaught Error: Class 'Automattic\WooCommerce\Admin\Notes\Note' not found in /var/www/html/moco/wp-content/plugins/cart-rest-api-for-woocommerce/includes/admin/notes/class-cocart-wc-admin-note-activate-pro.php:112
+Stack trace:
+#0 /var/www/html/moco/wp-content/plugins/cart-rest-api-for-woocommerce/includes/admin/notes/class-cocart-wc-admin-note-activate-pro.php(59): CoCart_WC_Admin_Activate_Pro_Note::get_note_args()
+#1 /var/www/html/moco/wp-content/plugins/cart-rest-api-for-woocommerce/includes/admin/notes/class-cocart-wc-admin-note-activate-pro.php(41): CoCart_WC_Admin_Activate_Pro_Note::add_note()
+#2 /var/www/html/moco/wp-content/plugins/cart-rest-api-for-woocommerce/includes/admin/notes/class-cocart-wc-admin-note-activate-pro.php(171): CoCart_WC_Admin_Activate_Pro_Note->__construct()
+#3 /var/www/html/moco/wp-content/plugins/cart-rest-api-for-woocommerce/includes/admin/class-cocart-wc-admin-notices.php(51): include_once('/var/www/html/m...')
+#4 /var/www/html/moco/wp-includes/class-wp-hook.php(307): CoCart_WC in /var/www/html/moco/wp-content/plugins/cart-rest-api-for-woocommerce/includes/admin/notes/class-cocart-wc-admin-note-activate-pro.php on line 112
+
+2022-05-03T09:07:36+00:00 CRITICAL Cannot declare class WC_PlugnPay, because the name is already in use in /var/www/html/moco/wp-content/plugins/plug-n-pay-payment-woocommerce (copy)/gateway.php on line 26
+
+2022-05-03T09:07:37+00:00 CRITICAL Cannot declare class WC_PlugnPay, because the name is already in use in /var/www/html/moco/wp-content/plugins/plug-n-pay-payment-woocommerce (copy)/gateway.php on line 26
+
+2022-05-03T09:07:37+00:00 CRITICAL Cannot declare class WC_PlugnPay, because the name is already in use in /var/www/html/moco/wp-content/plugins/plug-n-pay-payment-woocommerce (copy)/gateway.php on line 26
+

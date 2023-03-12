@@ -1,0 +1,1531 @@
+BPS MSCAN LOG
+======================
+======================
+
+
+[MScan Scan Start: December 22, 2021 2:47 am]
+MScan Status: 
+Scan Time Calculation: Start Count total files to scan.
+Scan Time Calculation: Max File Size Limit to Scan: 400 KB
+Scan Time Calculation: Total Skipped Files (larger than 400 KB): 0
+Scan Time Calculation: Total WP Core Files to Scan: 1665
+Scan Time Calculation: Total Plugin Files to Scan: 7546
+Scan Time Calculation: Total Theme Files to Scan: 783
+Scan Time Calculation: Total non-WP php, html, etc Files to Scan: 8
+Scan Time Calculation: Total Files to Scan: 10002
+Scan Time Calculation: Website Folders & Files To Scan: wp-admin, wp-content, wp-includes
+Scan Time Calculation: WP Core Hash Time Estimate: +45 Seconds
+Scan Time Calculation: Plugins Hash Time Estimate: +225 Seconds
+Scan Time Calculation: Themes Hash Time Estimate: +40 Seconds
+Scan Time Calculation: WP Core Files Time Estimate: +4 Seconds
+Scan Time Calculation: Plugin Files Time Estimate: +9 Seconds
+Scan Time Calculation: Theme Files Time Estimate: +1 Seconds
+Scan Time Calculation: non-WP php, html, etc Files Time Estimate: +0 Seconds
+Scan Time Calculation: DB Size Time Estimate: +6 Seconds
+Scan Time Calculation: SAPI Variance Time Estimate: +0 Seconds
+Scan Time Calculation: Scan Time Estimate: 330 Seconds
+MScan Status: 2
+Scan Time Calculation Completion Time: 00:00:10
+WP Zip File Download: Start wordpress-5.4.8.zip zip file download.
+WP Zip File Download Completion Time: 00:00:01
+WP Zip File Extraction: Start ZipArchive zip file extraction.
+WP Zip File Extraction Completion Time: 00:00:01
+WP MD5 File Hash Maker & Cleanup: Start creating the wp-hashes.php file.
+WP MD5 File Hash Maker & Cleanup: wp-hashes.php file created.
+WP MD5 File Hash Maker & Cleanup: Start /bps-backup/wp-hashes/ folder cleanup.
+WP MD5 File Hash Maker & Cleanup: WP wordpress-5.4.8.zip file deleted.
+WP MD5 File Hash Maker & Cleanup: Extracted /bps-backup/wp-hashes/wordpress/ folder deleted.
+WP MD5 File Hash Maker & Cleanup Completion Time: 00:00:03
+Plugin Zip File Download: Start Plugin zip file downloads.
+Plugin Zip File Download: Zip file download successful: advanced-custom-fields.5.8.7.zip
+Plugin Zip File Download: Zip file download successful: woo-advanced-shipment-tracking.2.9.5.zip
+Plugin Zip File Download: WP_Error: Unable to download Plugin zip file: akeebabackupwp.2.4.0.zip from WordPress.org.
+Plugin Zip File Download: Zip file download successful: bulletproof-security.5.5.zip
+Plugin Zip File Download: WP_Error: Unable to download Plugin zip file: categories-multiple-images.1.1.zip from WordPress.org.
+Plugin Zip File Download: Zip file download successful: classic-editor.1.5.zip
+Plugin Zip File Download: Zip file download successful: cart-rest-api-for-woocommerce.2.6.3.zip
+Plugin Zip File Download: Zip file download successful: cocart-get-cart-enhanced.2.0.0.zip
+Plugin Zip File Download: Zip file download successful: contact-form-7.5.1.6.zip
+Plugin Zip File Download: WP_Error: Unable to download Plugin zip file: wp-sync-dropbox.1.0.0.zip from WordPress.org.
+Plugin Zip File Download: Zip file download successful: duplicate-post.3.2.4.zip
+Plugin Zip File Download: Zip file download successful: emails-verification-for-woocommerce.2.0.5.zip
+Plugin Zip File Download: Zip file download successful: fly-dynamic-image-resizer.2.0.5.zip
+Plugin Zip File Download: Zip file download successful: intuitive-custom-post-order.3.1.2.zip
+Plugin Zip File Download: Zip file download successful: jwt-authentication-for-wp-rest-api.1.2.6.zip
+Plugin Zip File Download: Zip file download successful: login-or-logout-menu-item.1.2.0.zip
+Plugin Zip File Download: Zip file download successful: motopress-slider-lite.2.1.0.zip
+Plugin Zip File Download: Zip file download successful: multi-image-upload.2.0.zip
+Plugin Zip File Download: Zip file download successful: smntcs-woocommerce-quantity-buttons.1.19.zip
+Plugin Zip File Download: Zip file download successful: wpcf7-recaptcha.1.2.4.zip
+Plugin Zip File Download: Zip file download successful: bdvs-password-reset.0.0.8.zip
+Plugin Zip File Download: Zip file download successful: shortcodes-ultimate.5.8.1.zip
+Plugin Zip File Download: Zip file download successful: show-current-template.0.3.4.zip
+Plugin Zip File Download: Zip file download successful: team-builder.1.4.4.zip
+Plugin Zip File Download: Zip file download successful: wc-rest-payment.1.4.1.zip
+Plugin Zip File Download: Zip file download successful: woocommerce.4.0.2.zip
+Plugin Zip File Download: Zip file download successful: woo-address-book.1.7.5.zip
+Plugin Zip File Download: Zip file download successful: woocommerce-other-payment-gateway.1.3.2.zip
+Plugin Zip File Download: Zip file download successful: woocommerce-gateway-paypal-express-checkout.1.6.21.zip
+Plugin Zip File Download: WP_Error: Unable to download Plugin zip file: plug-n-pay-payment-woocommerce.4.0.5.zip from WordPress.org.
+Plugin Zip File Download: WP_Error: Unable to download Plugin zip file: woocommerce-rental-and-booking.8.0.6.zip from WordPress.org.
+Plugin Zip File Download: Zip file download successful: wp-crontrol.1.8.5.zip
+Plugin Zip File Download: Zip file download successful: wp-mail-smtp.2.4.0.zip
+Plugin Zip File Download: Zip file download successful: wp-register-profile-with-shortcode.3.5.6.zip
+Plugin Zip File Download: Zip file download successful: rest-api-oauth1.0.3.0.zip
+Plugin Zip File Download: Zip file download successful: wp-rest-user.1.4.2.zip
+Plugin Zip File Download: Zip file download successful: akismet.4.1.3.zip
+Plugin Zip File Download: WP_Error: Unable to download Plugin zip file: cart-rest-api-for-woocommerceDec.2.0.3.zip from WordPress.org.
+Plugin Zip File Download: Zip file download successful: hello-dolly.1.7.2.zip
+Plugin Zip File Download: Zip file download successful: php-everywhere.2.0.1.zip
+Plugin Zip File Download: Zip file download successful: wc-quantity-plus-minus-button.1.0.4.zip
+Plugin Zip File Download: Zip file download successful: really-simple-ssl.3.2.9.zip
+Plugin Zip File Download: WP_Error: Unable to download Plugin zip file: woobox-api.1.0.zip from WordPress.org.
+Plugin Zip File Download: Zip file download successful: woocommerce-admin.0.26.1.zip
+Plugin Zip File Download Completion Time: 00:00:46
+Plugin Zip File Extraction: Start ZipArchive zip file extraction.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: advanced-custom-fields.5.8.7.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: akismet.4.1.3.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: bdvs-password-reset.0.0.8.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: bulletproof-security.5.5.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: cart-rest-api-for-woocommerce.2.6.3.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: classic-editor.1.5.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: cocart-get-cart-enhanced.2.0.0.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: contact-form-7.5.1.6.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: duplicate-post.3.2.4.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: emails-verification-for-woocommerce.2.0.5.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: fly-dynamic-image-resizer.2.0.5.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: hello-dolly.1.7.2.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: intuitive-custom-post-order.3.1.2.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: jwt-authentication-for-wp-rest-api.1.2.6.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: login-or-logout-menu-item.1.2.0.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: motopress-slider-lite.2.1.0.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: multi-image-upload.2.0.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: php-everywhere.2.0.1.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: really-simple-ssl.3.2.9.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: rest-api-oauth1.0.3.0.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: shortcodes-ultimate.5.8.1.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: show-current-template.0.3.4.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: smntcs-woocommerce-quantity-buttons.1.19.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: team-builder.1.4.4.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: wc-quantity-plus-minus-button.1.0.4.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: wc-rest-payment.1.4.1.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: woo-address-book.1.7.5.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: woo-advanced-shipment-tracking.2.9.5.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: woocommerce-admin.0.26.1.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: woocommerce-gateway-paypal-express-checkout.1.6.21.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: woocommerce-other-payment-gateway.1.3.2.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: woocommerce.4.0.2.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: wp-crontrol.1.8.5.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: wp-mail-smtp.2.4.0.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: wp-register-profile-with-shortcode.3.5.6.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: wp-rest-user.1.4.2.zip.
+Plugin Zip File Extraction ZipArchive: Zip file extraction successful: wpcf7-recaptcha.1.2.4.zip.
+Plugin Zip File Extraction Completion Time: 00:00:02
+Plugin MD5 File Hash Maker: Start creating the plugin-hashes.php file.
+Plugin MD5 File Hash Maker & Cleanup: plugin-hashes.php file created.
+Plugin MD5 File Hash Maker & Cleanup: Start /bps-backup/plugin-hashes/ folder cleanup.
+Plugin MD5 File Hash Maker & Cleanup: Plugin Zip files deleted.
+Plugin MD5 File Hash Maker & Cleanup: Extracted Plugin folders deleted.
+Plugin MD5 File Hash Maker & Cleanup Completion Time: 00:00:07
+Theme Zip File Download: Start Theme zip file downloads.
+Theme Zip File Download: WP_Error: Unable to download Theme zip file: crane.2.0.zip from WordPress.org.
+Theme Zip File Download: WP_Error: Unable to download Theme zip file: moco.1.2.zip from WordPress.org.
+Theme Zip File Download: Zip file download successful: storefront.2.5.5.zip
+Theme Zip File Download: WP_Error: Unable to download Theme zip file: storefrontNew.2.7.0.zip from WordPress.org.
+Theme Zip File Download: Zip file download successful: twentynineteen.1.4.zip
+Theme Zip File Download: Zip file download successful: twentyseventeen.2.2.zip
+Theme Zip File Download: Zip file download successful: twentysixteen.2.0.zip
+Theme Zip File Download: Zip file download successful: twentytwenty.1.1.zip
+Theme Zip File Download Completion Time: 00:00:07
+Theme Zip File Extraction: Start ZipArchive zip file extraction.
+Theme Zip File Extraction ZipArchive: Zip file extraction successful: storefront.2.5.5.zip.
+Theme Zip File Extraction ZipArchive: Zip file extraction successful: twentynineteen.1.4.zip.
+Theme Zip File Extraction ZipArchive: Zip file extraction successful: twentyseventeen.2.2.zip.
+Theme Zip File Extraction ZipArchive: Zip file extraction successful: twentysixteen.2.0.zip.
+Theme Zip File Extraction ZipArchive: Zip file extraction successful: twentytwenty.1.1.zip.
+Theme Zip File Extraction Completion Time: 00:00:00
+Theme MD5 File Hash Maker: Start creating the theme-hashes.php file.
+Theme MD5 File Hash Maker & Cleanup: theme-hashes.php file created.
+Theme MD5 File Hash Maker & Cleanup: Start /bps-backup/theme-hashes/ folder cleanup.
+Theme MD5 File Hash Maker & Cleanup: Theme Zip files deleted.
+Theme MD5 File Hash Maker & Cleanup: Extracted Theme folders deleted.
+Theme MD5 File Hash Maker & Cleanup Completion Time: 00:00:00
+Scanning Files: Start scanning files.
+MScan Status: 2
+Scanning Files: Start WP Core file scan.
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/post.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/plugins.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/link-manager.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/edit-comments.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/admin-header.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/options-reading.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/media.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/user-edit.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/site-health-info.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/index.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/media-upload.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/themes.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/export-personal-data.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/install.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/options-general.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/privacy.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/customize.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/async-upload.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/edit.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/load-styles.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/edit-form-blocks.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/erase-personal-data.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/media-new.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/credits.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/ms-delete-site.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/options-privacy.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/export.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/link.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/network.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/privacy-policy-guide.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/update-core.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/edit-link-form.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/edit-tags.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/edit-tag-form.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/network/themes.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/network/edit.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/network/settings.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/network/user-new.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/network/plugin-install.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/network/site-new.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/network/site-info.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/network/site-themes.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/network/upgrade.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/network/theme-install.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/network/users.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/network/site-settings.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/network/sites.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/network/update.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/network/site-users.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/site-health.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/maint/repair.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/admin-footer.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/theme-editor.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/admin.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/nav-menus.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/user-new.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/term.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/post-new.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/upload.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/about.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/options-media.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/admin-ajax.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/plugin-install.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/options.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/options-discussion.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/menu-header.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/load-scripts.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/widgets.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/options-permalink.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/import.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/login.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/ie.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/about-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/dashboard.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/site-health-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/about.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/customize-widgets-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/site-health.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/revisions-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/common-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/deprecated-media.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/media-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/customize-controls.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/forms-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/deprecated-media-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/color-picker.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/themes.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/color-picker-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/deprecated-media-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/code-editor.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/list-tables-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/list-tables-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/site-health-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/dashboard-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/login-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/widgets.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/themes-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/code-editor.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/forms.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/revisions.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/admin-menu-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/nav-menus.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/about.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/customize-controls.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/edit-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/customize-widgets.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/widgets-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/nav-menus-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/common.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/customize-nav-menus.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/common-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/nav-menus.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/admin-menu.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/color-picker-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/about-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/edit-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/list-tables.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/media.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/ie-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/forms.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/login-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/edit.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/edit.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/customize-controls-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/admin-menu-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/customize-controls-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/install-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/nav-menus-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/forms-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/code-editor-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/customize-nav-menus-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/admin-menu.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/revisions.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/themes-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/dashboard-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/coffee/colors-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/coffee/colors.scss
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/coffee/colors.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/coffee/colors-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/coffee/colors.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/ocean/colors-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/ocean/colors.scss
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/ocean/colors.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/ocean/colors-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/ocean/colors.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/midnight/colors-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/midnight/colors.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/midnight/colors-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/midnight/colors.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/_variables.scss
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/blue/colors-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/blue/colors.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/blue/colors-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/blue/colors.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/light/colors-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/light/colors.scss
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/light/colors.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/light/colors-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/light/colors.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/ectoplasm/colors-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/ectoplasm/colors.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/ectoplasm/colors-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/ectoplasm/colors.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/_admin.scss
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/sunrise/colors-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/sunrise/colors.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/sunrise/colors-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/sunrise/colors.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/colors/_mixins.scss
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/ie-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/login.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/install.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/customize-widgets-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/customize-widgets.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/deprecated-media.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/install-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/customize-nav-menus.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/widgets.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/revisions-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/color-picker.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/ie.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/code-editor-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/install.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/widgets-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/list-tables.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/dashboard.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/media-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/themes.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/customize-nav-menus-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/common.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/media.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/css/site-health.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/options-writing.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/freedoms.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/setup-config.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/menu.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/install-helper.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/upgrade.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/link-parse-opml.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/edit-form-comment.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/theme-install.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/tools.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/users.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/my-sites.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-filesystem-direct.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/post.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-plugin-upgrader.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/bookmark.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/dashboard.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-theme-installer-skin.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/ajax-actions.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/media.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-site-icon.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-walker-nav-menu-edit.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-custom-image-header.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-media-list-table.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-language-pack-upgrader.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-posts-list-table.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/privacy-tools.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/meta-boxes.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-plugin-upgrader-skin.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/user.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-pclzip.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/template.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-themes-list-table.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-walker-nav-menu-checklist.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-automatic-upgrader-skin.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/credits.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-plugin-install-list-table.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-screen.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/continents-cities.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-theme-upgrader.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/export.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-ms-sites-list-table.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/network.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-ajax-upgrader-skin.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/update-core.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-upgrader-skin.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-theme-install-list-table.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/theme.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-list-table-compat.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-terms-list-table.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-theme-upgrader-skin.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-custom-background.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-privacy-requests-table.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-site-health.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-list-table.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-core-upgrader.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-ms-themes-list-table.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/screen.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-walker-category-checklist.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/misc.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-ms-users-list-table.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-plugin-installer-skin.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/translation-install.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-automatic-updater.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-site-health-auto-updates.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-filesystem-ssh2.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/file.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/plugin-install.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/options.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/ms.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-plugins-list-table.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/list-table.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/taxonomy.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/image.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-links-list-table.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-filesystem-ftpsockets.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-ftp.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/widgets.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-importer.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/nav-menu.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/deprecated.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-community-events.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-bulk-plugin-upgrader-skin.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-debug-data.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/import.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/image-edit.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/plugin.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/admin-filters.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/menu.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/upgrade.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/schema.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/theme-install.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-users-list-table.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-upgrader.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-language-pack-upgrader-skin.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-filesystem-base.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-filesystem-ftpext.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-privacy-policy-content.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-bulk-theme-upgrader-skin.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/class-wp-comments-list-table.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/update.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/comment.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/includes/revision.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/accordion.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/privacy-tools.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/media.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/plugin-install.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/password-strength-meter.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/gallery.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/xfn.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/inline-edit-post.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/theme.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/post.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/image-edit.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/custom-background.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/inline-edit-tax.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/inline-edit-post.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/user-suggest.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/media-gallery.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/widgets/custom-html-widgets.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/widgets/text-widgets.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/widgets/text-widgets.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/widgets/custom-html-widgets.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/widgets/media-widgets.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/widgets/media-widgets.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/language-chooser.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/user-suggest.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/widgets.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/xfn.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/link.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/media-upload.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/edit-comments.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/widgets.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/dashboard.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/link.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/nav-menu.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/privacy-tools.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/editor-expand.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/site-health.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/svg-painter.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/edit-comments.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/gallery.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/media-upload.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/customize-nav-menus.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/updates.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/comment.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/custom-header.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/dashboard.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/editor.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/theme.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/custom-background.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/user-profile.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/customize-widgets.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/svg-painter.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/customize-controls.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/tags-box.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/customize-widgets.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/set-post-thumbnail.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/common.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/postbox.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/tags-suggest.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/nav-menu.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/tags-suggest.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/accordion.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/editor.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/password-strength-meter.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/customize-controls.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/updates.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/tags-box.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/media-gallery.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/tags.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/image-edit.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/code-editor.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/inline-edit-tax.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/plugin-install.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/set-post-thumbnail.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/theme-plugin-editor.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/common.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/color-picker.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/customize-nav-menus.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/site-health.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/user-profile.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/media.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/language-chooser.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/tags.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/word-count.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/post.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/color-picker.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/theme-plugin-editor.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/comment.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/js/postbox.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/edit-form-advanced.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/plugin-editor.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/update.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/comment.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-admin/revision.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-trackback.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../xmlrpc.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-activate.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-comments-post.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-load.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-signup.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-config-sample.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../readme.html
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-cron.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/post.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/embed.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-http-encoding.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/category-template.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/default-filters.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/bookmark.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-http.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-embed.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-theme.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/script-loader.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-snoopy.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/comment-template.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/meta.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-block-type-registry.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/fonts/dashicons.eot
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/fonts/dashicons.ttf
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/fonts/dashicons.woff2
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/fonts/dashicons.svg
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/bookmark-template.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-term.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-query.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-customize-manager.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/media.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/template-loader.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-walker-nav-menu.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/default-widgets.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/atomlib.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-site-query.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/blocks/tag-cloud.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/blocks/latest-posts.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/blocks/rss.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/blocks/latest-comments.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/blocks/calendar.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/blocks/search.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/blocks/shortcode.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/blocks/categories.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/blocks/block.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/blocks/archives.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/blocks/shortcode/block.json
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/blocks/social-link.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/blocks/social-link/block.json
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-customize-widgets.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-recovery-mode-cookie-service.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-admin-bar.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-paused-extensions-storage.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/post-formats.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-oembed-controller.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-user-request.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/sodium_compat/src/Compat.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/sodium_compat/src/PHP52/SplFixedArray.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/sodium_compat/src/Core/Curve25519.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/sodium_compat/src/Core/SipHash.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/sodium_compat/src/Core/Curve25519/H.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/sodium_compat/src/Core/BLAKE2b.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/sodium_compat/src/Core/Util.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/sodium_compat/src/Core/Ed25519.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/sodium_compat/src/Core32/BLAKE2b.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/sodium_compat/src/Core32/Ed25519.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/sodium_compat/src/File.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/sodium_compat/autoload.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/sodium_compat/LICENSE
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/sodium_compat/lib/sodium_compat.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/sodium_compat/lib/php72compat.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/sodium_compat/lib/php72compat_const.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/sodium_compat/composer.json
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-dependency.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class.wp-dependencies.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/widgets/class-wp-widget-recent-comments.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/widgets/class-wp-widget-archives.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/widgets/class-wp-nav-menu-widget.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/widgets/class-wp-widget-search.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/widgets/class-wp-widget-media.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/widgets/class-wp-widget-media-image.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/widgets/class-wp-widget-recent-posts.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/widgets/class-wp-widget-meta.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/widgets/class-wp-widget-tag-cloud.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/widgets/class-wp-widget-rss.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/widgets/class-wp-widget-custom-html.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/widgets/class-wp-widget-pages.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/widgets/class-wp-widget-text.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/widgets/class-wp-widget-calendar.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/widgets/class-wp-widget-categories.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/widgets/class-wp-widget-links.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-user.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-network-query.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-metadata-lazyloader.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-user-query.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-network.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/admin-bar.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/assets/script-loader-packages.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/images/crystal/license.txt
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/user.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-customize-control.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-widget-factory.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/spl-autoload-compat.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rss-functions.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-block-styles-registry.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-http-curl.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/category.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-post.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/template.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-feed-cache.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-error.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-walker.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ms-load.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rss.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/media-template.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/post-template.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/l10n.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-image-editor-imagick.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-recovery-mode-link-service.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/theme-compat/header.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/theme-compat/comments.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/theme-compat/footer.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/blocks.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-rewrite.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-list-util.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Item.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Decode/HTML/Entities.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Credit.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Exception.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Cache/Memcache.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Cache/MySQL.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Cache/File.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Cache/Base.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Cache/DB.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/gzdecode.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/HTTP/Parser.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Parser.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Category.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Rating.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Restriction.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Misc.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Enclosure.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Copyright.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/File.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Source.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/XML/Declaration/Parser.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Content/Type/Sniffer.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Cache.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Caption.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Core.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Registry.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Net/IPv6.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/IRI.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Locator.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Parse/Date.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Author.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/SimplePie/Sanitize.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-meta-query.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/link-template.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/functions.wp-styles.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/cache.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-block-type.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-json.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-simplepie-sanitize-kses.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-walker-category-dropdown.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/nav-menu-template.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/author-template.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/default-constants.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-text-diff-renderer-table.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-tax-query.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/theme.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ms-deprecated.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-xmlrpc-server.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/feed.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-walker-page.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-date-query.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/canonical.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-hook.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-http-proxy.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ms-blogs.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-smtp.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-post-type.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ID3/module.audio-video.flv.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ID3/module.audio.ac3.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ID3/module.audio.mp3.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ID3/module.audio.ogg.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ID3/module.tag.id3v1.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ID3/module.tag.id3v2.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ID3/module.tag.apetag.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ID3/module.audio-video.asf.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ID3/getid3.lib.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ID3/module.audio-video.riff.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ID3/module.audio.dts.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ID3/module.audio.flac.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ID3/module.tag.lyrics3.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ID3/getid3.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ID3/module.audio-video.matroska.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ID3/module.audio-video.quicktime.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-walker-category.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/cron.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-session-tokens.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/error-protection.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ms-functions.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/kses.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/option.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/registration.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-role.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-http-streams.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/fields/class-wp-rest-meta-fields.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/search/class-wp-rest-search-handler.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/search/class-wp-rest-post-search-handler.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/endpoints/class-wp-rest-controller.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/class-wp-rest-response.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/class-wp-rest-request.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api/class-wp-rest-server.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-block-parser.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/customize/class-wp-customize-upload-control.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/customize/class-wp-customize-background-position-control.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/customize/class-wp-customize-partial.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/customize/class-wp-customize-nav-menu-locations-control.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/customize/class-wp-customize-nav-menu-section.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/customize/class-wp-customize-theme-control.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/customize/class-wp-customize-image-control.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/customize/class-wp-customize-selective-refresh.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/customize/class-wp-customize-themes-section.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/customize/class-wp-widget-area-customize-control.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/customize/class-wp-customize-nav-menu-setting.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/customize/class-wp-customize-nav-menu-item-setting.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/customize/class-wp-customize-media-control.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/customize/class-wp-customize-site-icon-control.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/customize/class-wp-customize-custom-css-setting.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/customize/class-wp-customize-date-time-control.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/customize/class-wp-customize-header-image-control.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/customize/class-wp-customize-code-editor-control.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Cookie/Jar.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Auth/Basic.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/SSL.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/410.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/304.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/403.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/502.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/406.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/503.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/431.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/415.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/501.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/412.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/405.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/511.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/409.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/414.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/505.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/408.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/Unknown.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/413.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/407.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/428.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/416.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/418.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/411.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/504.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/417.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/401.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/429.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/404.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/500.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/402.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP/400.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/HTTP.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Exception/Transport/cURL.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Utility/FilteredIterator.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Utility/CaseInsensitiveDictionary.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Proxy.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Hooks.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/IPv6.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Proxy/HTTP.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Session.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/IDNAEncoder.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Response/Headers.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Hooker.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Cookie.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Transport/fsockopen.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Transport/cURL.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Auth.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/IRI.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Transport.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Requests/Response.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-customize-nav-menus.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rewrite.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-recovery-mode.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-requests.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class.wp-scripts.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/wp-db.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-widget.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-roles.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-http-requests-hooks.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/registration-functions.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class.wp-styles.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-ajax-response.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ms-default-filters.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-http-ixr-client.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-customize-setting.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/taxonomy.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-phpass.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-simplepie-file.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-site.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/compat.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-matchesmapregex.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ms-settings.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-pop3.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/widgets.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ms-network.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-simplepie.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/nav-menu.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/pluggable.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/version.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-recovery-mode-key-service.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/deprecated.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ms-site.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/query.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/general-template.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/buttons.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/admin-bar.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/wp-pointer.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/customize-preview-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/media-views-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/wp-embed-template.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/admin-bar-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/jquery-ui-dialog.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/media-views-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/editor.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/wp-embed-template.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/buttons-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dashicons.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/wp-auth-check.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/admin-bar-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/wp-auth-check-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/wp-pointer-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/customize-preview-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/customize-preview.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/editor-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/customize-preview.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dashicons.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/wp-auth-check-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/jquery-ui-dialog.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/media-views.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/wp-pointer-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/format-library/style-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/format-library/style.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/format-library/style-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/format-library/style.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/editor/editor-styles.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/editor/editor-styles.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/editor/style-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/editor/style.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/editor/editor-styles-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/editor/style-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/editor/editor-styles-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/editor/style.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/block-editor/style-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/block-editor/style.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/block-editor/style-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/block-editor/style.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/list-reusable-blocks/style-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/list-reusable-blocks/style.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/list-reusable-blocks/style-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/list-reusable-blocks/style.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/nux/style-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/nux/style.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/nux/style-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/nux/style.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/block-library/theme-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/block-library/editor.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/block-library/style-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/block-library/editor-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/block-library/style.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/block-library/theme.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/block-library/editor-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/block-library/style-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/block-library/theme.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/block-library/editor.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/block-library/theme-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/block-library/style.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/edit-post/style-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/edit-post/style.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/edit-post/style-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/edit-post/style.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/components/style-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/components/style.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/components/style-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/components/style.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/block-directory/style-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/block-directory/style.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/block-directory/style-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/dist/block-directory/style.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/editor-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/jquery-ui-dialog-rtl.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/buttons-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/editor.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/wp-auth-check.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/media-views.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/admin-bar.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/buttons.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/jquery-ui-dialog-rtl.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/css/wp-pointer.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/plugin.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-comment-query.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/load.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-comment.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-oembed.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/rest-api.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/functions.wp-scripts.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/vars.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-term-query.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-image-editor.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/feed-atom.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/http.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-editor.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-object-cache.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-image-editor-gd.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/pomo/mo.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/pomo/plural-forms.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/pomo/po.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/pomo/entry.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/pomo/streams.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/pomo/translations.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/feed-rss2-comments.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-taxonomy.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-recovery-mode-email-service.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-fatal-error-handler.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/capabilities.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/certificates/ca-bundle.crt
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/functions.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/IXR/class-IXR-client.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/IXR/class-IXR-clientmulticall.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/IXR/class-IXR-message.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/IXR/class-IXR-server.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/post-thumbnail-template.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/wp-emoji-loader.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/clipboard.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/media-models.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/wp-auth-check.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/wp-api.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/api-request.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/imagesloaded.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/wp-emoji-loader.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/customize-models.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/wp-ajax-response.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/wp-custom-header.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/quicktags.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/wp-api.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/wp-pointer.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/customize-preview-nav-menus.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/wp-embed-template.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/wp-util.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/wp-pointer.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/underscore.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/customize-base.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/heartbeat.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/wp-auth-check.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/masonry.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/wp-embed-template.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/wplink.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/autosave.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/customize-preview.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/wp-lists.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/media-editor.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/media-grid.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/wplink.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/customize-base.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/twemoji.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/media-views.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/comment-reply.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/wp-util.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/wp-lists.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/plupload/wp-plupload.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/plupload/handlers.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/plupload/handlers.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/plupload/wp-plupload.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/plupload/moxie.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/media-grid.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/wp-backbone.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/media-views.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/mce-view.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/media-audiovideo.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/heartbeat.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/mediaelement/mediaelementplayer.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/mediaelement/mediaelement.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/mediaelement/mediaelement-and-player.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/mediaelement/mediaelement-and-player.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/mediaelement/mediaelement.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/mediaelement/renderers/vimeo.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/mediaelement/renderers/vimeo.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/jquery.form.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/jquery-migrate.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/jquery.serialize-object.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/jquery.form.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/jquery.hotkeys.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/jquery.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/jquery.table-hotkeys.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/accordion.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/position.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/effect-puff.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/effect-pulsate.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/effect-drop.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/effect-bounce.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/effect-shake.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/core.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/mouse.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/tooltip.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/button.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/effect-fade.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/effect-slide.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/effect-highlight.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/effect.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/droppable.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/dialog.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/resizable.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/sortable.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/effect-size.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/progressbar.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/widget.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/draggable.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/datepicker.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/selectable.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/selectmenu.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/autocomplete.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/menu.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/effect-fold.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/slider.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/effect-transfer.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/effect-clip.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/tabs.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/effect-scale.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/effect-explode.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/spinner.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/ui/effect-blind.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/jquery/jquery-migrate.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/imgareaselect/jquery.imgareaselect.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/imgareaselect/jquery.imgareaselect.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/media-audiovideo.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/media-editor.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/customize-preview-nav-menus.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/admin-bar.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/customize-selective-refresh.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/thickbox/thickbox.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/thickbox/thickbox.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/nux.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/autop.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/server-side-render.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/list-reusable-blocks.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/viewport.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/core-data.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/redux-routine.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/shortcode.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/notices.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/priority-queue.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/plugins.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/is-shallow-equal.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/redux-routine.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/edit-post.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/deprecated.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/element.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/keyboard-shortcuts.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/wordcount.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/escape-html.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/media-utils.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/viewport.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/block-serialization-default-parser.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/format-library.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/blob.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/media-utils.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/annotations.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/dom.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/html-entities.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/dom.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/keyboard-shortcuts.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/rich-text.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/data.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/token-list.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/keycodes.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/is-shallow-equal.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/hooks.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/i18n.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/components.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/compose.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/escape-html.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/api-fetch.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/rich-text.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/editor.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/vendor/react.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/vendor/wp-polyfill-formdata.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/vendor/moment.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/vendor/wp-polyfill-node-contains.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/vendor/react-dom.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/vendor/react-dom.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/vendor/moment.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/vendor/wp-polyfill.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/vendor/wp-polyfill.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/vendor/wp-polyfill-dom-rect.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/vendor/react.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/plugins.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/a11y.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/block-editor.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/edit-post.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/format-library.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/deprecated.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/dom-ready.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/autop.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/dom-ready.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/element.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/blocks.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/nux.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/a11y.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/list-reusable-blocks.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/notices.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/block-editor.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/editor.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/token-list.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/shortcode.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/primitives.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/blob.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/priority-queue.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/block-directory.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/data-controls.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/date.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/url.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/data-controls.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/annotations.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/blocks.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/compose.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/url.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/primitives.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/server-side-render.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/date.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/block-serialization-default-parser.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/wordcount.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/block-library.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/keycodes.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/data.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/core-data.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/components.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/api-fetch.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/html-entities.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/i18n.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/block-directory.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/block-library.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/dist/hooks.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/underscore.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/quicktags.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/twemoji.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/colorpicker.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/wp-emoji-release.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/autosave.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/clipboard.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/api-request.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/wp-ajax-response.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/tinymce/wp-tinymce.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/tinymce/skins/lightgray/content.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/tinymce/skins/lightgray/skin.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/tinymce/skins/lightgray/content.inline.min.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/tinymce/plugins/wptextpattern/plugin.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/tinymce/plugins/paste/plugin.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/tinymce/plugins/paste/plugin.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/tinymce/plugins/lists/plugin.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/tinymce/plugins/lists/plugin.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/tinymce/plugins/wpgallery/plugin.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/tinymce/plugins/media/plugin.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/tinymce/plugins/media/plugin.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/tinymce/plugins/wordpress/plugin.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/tinymce/plugins/wordpress/plugin.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/tinymce/plugins/compat3x/plugin.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/tinymce/plugins/compat3x/css/dialog.css
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/tinymce/themes/modern/theme.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/tinymce/themes/modern/theme.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/tinymce/themes/inlite/theme.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/tinymce/themes/inlite/theme.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/tinymce/tinymce.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/comment-reply.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/customize-preview-widgets.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/media-models.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/wp-custom-header.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/customize-loader.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/hoverIntent.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/hoverIntent.min.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/js/admin-bar.js
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-locale.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-phpmailer.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Text/Diff.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/Text/Diff/Engine/shell.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/update.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-http-cookie.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/ms-default-constants.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/formatting.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-walker-comment.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/shortcodes.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/comment.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/class-wp-customize-panel.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-includes/revision.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-login.php
+Scanning Files WP Core: Suspicious|Modified|Unknown WP Core file: ../wp-settings.php
+Scanning Files: WP Core file scan completed.
+Scanning Files: Start Plugins file scan.
+Scanning Files: Plugins: The plugin-hashes.php array is empty or null. Plugin files will not be scanned.
+Scanning Files: Plugins file scan completed.
+Scanning Files: Start Themes file scan.
+Scanning Files: Plugins: The theme-hashes.php array is empty or null. Theme files will not be scanned.
+Scanning Files: Themes file scan completed.
+Scanning Files: Start wp-content, plugins and themes root index.php files scan.
+Scanning Files: Themes: No Suspicious|Modified|Unknown root index.php files were found.
+Scanning Files: wp-content, plugins and themes index.php files scan completed.
+Scanning Files: Start php, js, etc file scanning.
+Scanning Files: Suspicious code pattern matches:
+Scanning Files .js: No Suspicious .js code pattern matches were found.
+Scanning Files .htaccess: No Suspicious .htaccess code pattern matches were found.
+Scanning Files php, html, etc: No Suspicious php, html, etc code pattern matches were found.
+Scanning Files: php, js, etc file scanning completed.
+Scanning Files: Scanning files completed.
+Scanning Database: Start database scan.
+Scanning Database: Suspicious code pattern matches:
+Scanning Database: DB Table (w/o Prefix): options | Column|Field: option_value | Primary Key ID: 110
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 17
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 465
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 466
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 468
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 471
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 474
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 475
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 476
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 516
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 518
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 520
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 745
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 755
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 775
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 819
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 821
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 822
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 824
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 825
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 827
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 829
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 830
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 831
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 833
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 834
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 835
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 836
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 839
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 840
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 841
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 842
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 843
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 844
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 845
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 846
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 847
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 848
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 849
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 851
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 852
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 853
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 854
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 855
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 895
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 901
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 909
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 942
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 943
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 944
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 945
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 946
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 947
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 948
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 949
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 950
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 951
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 952
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 953
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 954
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 955
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 956
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 957
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 958
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 959
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 960
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 995
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 996
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 997
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 998
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 999
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1000
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1001
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1002
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1003
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1004
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1005
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1006
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1007
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1185
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1186
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1187
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1188
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1189
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1190
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1191
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1192
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1193
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1194
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1195
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1196
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1197
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1198
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1220
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1221
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1226
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1227
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1228
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1229
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1230
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1231
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1234
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1235
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1249
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1250
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1251
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1252
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1253
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1254
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1255
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1256
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1257
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1354
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1356
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1357
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1358
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1359
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: DB Table (w/o Prefix): posts | Column|Field: post_content | Primary Key ID: 1361
+Scanning Database: Code Pattern Match: <iframe
+Scanning Database: Database scan completed.
+MScan Status: 3
+Scanning Files & Database Completion Time: 00:00:20
+Total Scan Time: 00:01:31

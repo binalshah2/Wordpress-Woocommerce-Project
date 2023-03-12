@@ -1,0 +1,4278 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocomemrce Rental & Bookings\n"
+"POT-Creation-Date: 2019-04-18 18:21+0600\n"
+"PO-Revision-Date: 2019-04-18 18:21+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: redq-rental-and-bookings.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/class-redq-rental-admin-page.php:25
+msgid "RnB Menu Page"
+msgstr ""
+
+#: includes/admin/class-redq-rental-admin-page.php:25
+msgid "RnB Calendar"
+msgstr ""
+
+#: includes/admin/class-redq-rental-admin-page.php:36
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Вы не имеете достаточно прав для доступа к этой странице."
+
+#: includes/admin/class-redq-rental-admin-page.php:102
+msgid "Inventory Reference"
+msgstr ""
+
+#: includes/admin/class-redq-rental-meta-boxes.php:18
+msgid "Rental Product"
+msgstr "Прокат товаров"
+
+#: includes/admin/class-redq-rental-meta-boxes.php:26
+#: includes/admin/class-redq-rental-post-types.php:104
+#: includes/admin/class-redq-rental-post-types.php:105
+#: includes/admin/class-redq-rental-post-types.php:106
+#: includes/redq-rental-global-functions.php:1103
+msgid "Inventory"
+msgstr "Инвентарь"
+
+#: includes/admin/class-redq-rental-meta-boxes.php:33
+msgid "Price Discount"
+msgstr "Скидка с цены"
+
+#: includes/admin/class-redq-rental-meta-boxes.php:40
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/admin/class-redq-rental-post-types.php:43
+#: includes/admin/class-redq-rental-post-types.php:1151
+msgid "Quote"
+msgstr "Цитата"
+
+#: includes/admin/class-redq-rental-post-types.php:44
+#: templates/myaccount/request-quote.php:12
+msgid "Status"
+msgstr "Статус"
+
+#: includes/admin/class-redq-rental-post-types.php:45
+#: templates/myaccount/view-quote.php:50
+msgid "Product"
+msgstr "Продукт"
+
+#: includes/admin/class-redq-rental-post-types.php:46
+#: includes/admin/class-redq-rental-settings-rnb.php:611
+#: includes/admin/class-redq-rental-settings-rnb.php:612
+#: includes/admin/views/html-product-settings-data.php:664
+#: includes/redq-rental-global-functions.php:1136
+#: includes/redq-rental-global-functions.php:1215
+#: templates/rnb/emails/request-quote-item-details.php:250
+msgid "Email"
+msgstr "Email"
+
+#: includes/admin/class-redq-rental-post-types.php:47
+#: includes/redq-rental-global-functions.php:1053
+#: includes/redq-rental-global-functions.php:1062
+#: includes/redq-rental-global-functions.php:1167
+#: includes/redq-rental-global-functions.php:1172
+#: templates/myaccount/request-quote.php:11
+msgid "Date"
+msgstr "Дата"
+
+#: includes/admin/class-redq-rental-post-types.php:64
+msgid "by"
+msgstr "от"
+
+#: includes/admin/class-redq-rental-post-types.php:103
+msgid "All Inventories"
+msgstr "Инвентарь"
+
+#: includes/admin/class-redq-rental-post-types.php:107
+#: includes/admin/class-redq-rental-post-types.php:108
+msgid "Add New Inventory"
+msgstr "Добавить нового пользователя"
+
+#: includes/admin/class-redq-rental-post-types.php:109
+msgid "New Inventory"
+msgstr "Инвентарь"
+
+#: includes/admin/class-redq-rental-post-types.php:110
+msgid "Edit Inventory"
+msgstr "Инвентарный"
+
+#: includes/admin/class-redq-rental-post-types.php:111
+msgid "View Inventory"
+msgstr "Инвентарь"
+
+#: includes/admin/class-redq-rental-post-types.php:112
+msgid "All inventory"
+msgstr "Инвентарь"
+
+#: includes/admin/class-redq-rental-post-types.php:113
+msgid "Search inventory"
+msgstr "Поиск в каталоге"
+
+#: includes/admin/class-redq-rental-post-types.php:114
+msgid "Parent inventory:"
+msgstr "Родительский документ"
+
+#: includes/admin/class-redq-rental-post-types.php:115
+msgid "No inventory found."
+msgstr "Обьявления не найдены"
+
+#: includes/admin/class-redq-rental-post-types.php:116
+msgid "No inventory found in Trash."
+msgstr "Не найдено в корзине"
+
+#: includes/admin/class-redq-rental-post-types.php:121
+#: includes/admin/class-redq-rental-post-types.php:175
+msgid "Description."
+msgstr "Описание."
+
+#: includes/admin/class-redq-rental-post-types.php:143
+msgid "RnB Categories"
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:144
+#: includes/admin/class-redq-rental-settings-rnb.php:413
+#: includes/admin/class-redq-rental-settings-rnb.php:414
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:172
+#: includes/redq-rental-global-functions.php:1088
+msgid "Resources"
+msgstr "Источники"
+
+#: includes/admin/class-redq-rental-post-types.php:145
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:198
+#: templates/rnb/booking-content/booking-modal.php:177
+msgid "Person"
+msgstr "Особа"
+
+#: includes/admin/class-redq-rental-post-types.php:146
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:224
+#: includes/redq-rental-global-functions.php:1098
+msgid "Deposite"
+msgstr "Deposite"
+
+#: includes/admin/class-redq-rental-post-types.php:147
+#: includes/admin/class-redq-rental-settings-rnb.php:1524
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:249
+#: includes/redq-rental-global-functions.php:787
+msgid "Attributes"
+msgstr "Атрибуты"
+
+#: includes/admin/class-redq-rental-post-types.php:148
+#: includes/admin/class-redq-rental-settings-rnb.php:1537
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:274
+#: includes/redq-rental-global-functions.php:788
+msgid "Features"
+msgstr "Особенности"
+
+#: includes/admin/class-redq-rental-post-types.php:149
+#: includes/admin/class-redq-rental-settings-rnb.php:279
+#: includes/admin/class-redq-rental-settings-rnb.php:280
+#: includes/admin/class-redq-rental-settings-rnb.php:292
+#: includes/redq-rental-global-functions.php:1158
+#: includes/redq-rental-global-functions.php:1159
+msgid "Pickup Location"
+msgstr "Адрес склада самовывоза"
+
+#: includes/admin/class-redq-rental-post-types.php:150
+#: includes/admin/class-redq-rental-settings-rnb.php:303
+#: includes/admin/class-redq-rental-settings-rnb.php:304
+#: includes/admin/class-redq-rental-settings-rnb.php:315
+#: includes/admin/class-redq-rental-settings-rnb.php:316
+#: includes/redq-rental-global-functions.php:1162
+#: includes/redq-rental-global-functions.php:1163
+msgid "Dropoff Location"
+msgstr "Стоимость местоположение прерывания"
+
+#: includes/admin/class-redq-rental-post-types.php:157
+msgctxt "post type general name"
+msgid "Quote Request"
+msgstr "Новый запрос предложения"
+
+#: includes/admin/class-redq-rental-post-types.php:158
+msgctxt "post type singular name"
+msgid "Quote Request"
+msgstr "Новый запрос предложения"
+
+#: includes/admin/class-redq-rental-post-types.php:159
+msgctxt "admin menu"
+msgid "Quote"
+msgstr "Цитата"
+
+#: includes/admin/class-redq-rental-post-types.php:160
+msgctxt "add new on admin bar"
+msgid "Quote Request"
+msgstr "Новый запрос предложения"
+
+#: includes/admin/class-redq-rental-post-types.php:161
+msgctxt "request_quote"
+msgid "Add New"
+msgstr "Добавить Новый"
+
+#: includes/admin/class-redq-rental-post-types.php:162
+msgid "Add New Quote"
+msgstr "Добавить новую заявку"
+
+#: includes/admin/class-redq-rental-post-types.php:163
+msgid "New Quote Request"
+msgstr "Новый запрос предложения"
+
+#: includes/admin/class-redq-rental-post-types.php:164
+msgid "Edit Quote Request"
+msgstr "Изменить запрос"
+
+#: includes/admin/class-redq-rental-post-types.php:165
+msgid "View Quote Request"
+msgstr "Просмотр запрос"
+
+#: includes/admin/class-redq-rental-post-types.php:166
+msgid "All Quotes"
+msgstr "Цитаты"
+
+#: includes/admin/class-redq-rental-post-types.php:167
+msgid "Search Quote"
+msgstr "Поиск котировки"
+
+#: includes/admin/class-redq-rental-post-types.php:168
+msgid "Parent Quote:"
+msgstr "Родитель цитата:"
+
+#: includes/admin/class-redq-rental-post-types.php:169
+msgid "No Quote found."
+msgstr "Квот не обнаружено"
+
+#: includes/admin/class-redq-rental-post-types.php:170
+msgid "No Quote found in Trash."
+msgstr "Не найдено в корзине"
+
+#: includes/admin/class-redq-rental-post-types.php:213
+#: includes/admin/class-redq-rental-post-types.php:1318
+#: includes/admin/class-redq-rental-settings-rnb.php:400
+#: includes/admin/class-redq-rental-settings-rnb.php:401
+#: includes/class-redq-enqueue-files.php:283
+#: includes/redq-rental-global-functions.php:1082
+#: includes/redq-rental-global-functions.php:1182
+#: templates/myaccount/view-quote.php:217
+#: templates/rnb/emails/request-quote-item-details.php:186
+msgid "Quantity"
+msgstr "Количество"
+
+#: includes/admin/class-redq-rental-post-types.php:216
+msgid "Qty"
+msgstr "Количество инвентаризации"
+
+#: includes/admin/class-redq-rental-post-types.php:217
+msgid "Categories Quantity"
+msgstr "Категории Количество"
+
+#: includes/admin/class-redq-rental-post-types.php:224
+msgid "Choose Payable or Not"
+msgstr "Выберите оплачивается, или нет"
+
+#: includes/admin/class-redq-rental-post-types.php:227
+msgid "Pay"
+msgstr "Оплата"
+
+#: includes/admin/class-redq-rental-post-types.php:231
+#: includes/admin/class-redq-rental-post-types.php:292
+#: includes/admin/class-redq-rental-post-types.php:359
+#: includes/admin/views/html-own-time-availability.php:28
+msgid "Yes"
+msgstr "Да"
+
+#: includes/admin/class-redq-rental-post-types.php:235
+#: includes/admin/class-redq-rental-post-types.php:296
+#: includes/admin/class-redq-rental-post-types.php:363
+msgid "No"
+msgstr "Нет"
+
+#: includes/admin/class-redq-rental-post-types.php:243
+#: includes/admin/class-redq-rental-post-types.php:246
+#: includes/admin/class-redq-rental-post-types.php:510
+#: includes/admin/class-redq-rental-post-types.php:545
+#: includes/admin/views/html-days-range-meta.php:78
+#: includes/admin/views/html-hourly-range-meta.php:80
+msgid "Cost"
+msgstr "Стоимость"
+
+#: includes/admin/class-redq-rental-post-types.php:247
+msgid "Categories Cost"
+msgstr "Категории"
+
+#: includes/admin/class-redq-rental-post-types.php:254
+#: includes/admin/class-redq-rental-post-types.php:319
+#: includes/admin/class-redq-rental-post-types.php:407
+#: includes/admin/class-redq-rental-post-types.php:451
+msgid "Price Applicable"
+msgstr "Применимые цены"
+
+#: includes/admin/class-redq-rental-post-types.php:257
+msgid "Applied"
+msgstr "Применено"
+
+#: includes/admin/class-redq-rental-post-types.php:261
+#: includes/admin/class-redq-rental-post-types.php:1266
+#: includes/admin/class-redq-rental-post-types.php:1289
+#: includes/admin/class-redq-rental-post-types.php:1310
+#: includes/class-redq-product-cart.php:260
+#: includes/class-redq-product-cart.php:276
+#: includes/class-redq-product-cart.php:292
+#: includes/class-redq-product-cart.php:533
+#: includes/class-redq-product-cart.php:545
+#: includes/class-redq-product-cart.php:557
+#: templates/myaccount/view-quote.php:164
+#: templates/myaccount/view-quote.php:187
+#: templates/myaccount/view-quote.php:209
+#: templates/rnb/emails/request-quote-item-details.php:134
+#: templates/rnb/emails/request-quote-item-details.php:157
+#: templates/rnb/emails/request-quote-item-details.php:178
+msgid "One Time"
+msgstr "Одно время"
+
+#: includes/admin/class-redq-rental-post-types.php:265
+#: includes/admin/class-redq-rental-post-types.php:1264
+#: includes/admin/class-redq-rental-post-types.php:1287
+#: includes/admin/class-redq-rental-post-types.php:1308
+#: includes/admin/views/html-days-range-meta.php:92
+#: includes/class-redq-product-cart.php:258
+#: includes/class-redq-product-cart.php:274
+#: includes/class-redq-product-cart.php:290
+#: includes/class-redq-product-cart.php:531
+#: includes/class-redq-product-cart.php:543
+#: includes/class-redq-product-cart.php:555
+#: templates/myaccount/view-quote.php:162
+#: templates/myaccount/view-quote.php:185
+#: templates/myaccount/view-quote.php:207
+#: templates/rnb/emails/request-quote-item-details.php:132
+#: templates/rnb/emails/request-quote-item-details.php:155
+#: templates/rnb/emails/request-quote-item-details.php:176
+msgid "Per Day"
+msgstr "за день"
+
+#: includes/admin/class-redq-rental-post-types.php:274
+#: includes/admin/class-redq-rental-post-types.php:278
+#: includes/admin/class-redq-rental-post-types.php:339
+#: includes/admin/class-redq-rental-post-types.php:343
+#: includes/admin/class-redq-rental-post-types.php:426
+#: includes/admin/class-redq-rental-post-types.php:430
+#: includes/admin/class-redq-rental-post-types.php:471
+#: includes/admin/class-redq-rental-post-types.php:475
+msgid "Hourly Cost"
+msgstr "почасовой"
+
+#: includes/admin/class-redq-rental-post-types.php:277
+#: includes/admin/class-redq-rental-post-types.php:342
+#: includes/admin/class-redq-rental-post-types.php:429
+#: includes/admin/class-redq-rental-post-types.php:474
+msgid "H.Cost"
+msgstr "H.Cost"
+
+#: includes/admin/class-redq-rental-post-types.php:285
+msgid "Always Selected Or Not"
+msgstr "Всегда выбранный или нет"
+
+#: includes/admin/class-redq-rental-post-types.php:288
+msgid "Selected"
+msgstr "Выбрано"
+
+#: includes/admin/class-redq-rental-post-types.php:308
+#: includes/admin/class-redq-rental-post-types.php:312
+msgid "Resource Cost"
+msgstr "Стоимость ресурса"
+
+#: includes/admin/class-redq-rental-post-types.php:311
+msgid "R.Cost"
+msgstr "R.Cost"
+
+#: includes/admin/class-redq-rental-post-types.php:322
+#: includes/admin/class-redq-rental-post-types.php:410
+#: includes/admin/class-redq-rental-post-types.php:454
+#: includes/admin/views/html-days-range-meta.php:88
+#: includes/admin/views/html-hourly-range-meta.php:90
+msgid "Applicable"
+msgstr "Применимые"
+
+#: includes/admin/class-redq-rental-post-types.php:352
+msgid "Choose payable or not"
+msgstr "Выберите оплачивается, или нет"
+
+#: includes/admin/class-redq-rental-post-types.php:355
+msgid "Payable"
+msgstr "Подлежит оплате"
+
+#: includes/admin/class-redq-rental-post-types.php:371
+msgid "Choose Person Type"
+msgstr "Выберите тип лица"
+
+#: includes/admin/class-redq-rental-post-types.php:374
+msgid "P.Type"
+msgstr "p.type"
+
+#: includes/admin/class-redq-rental-post-types.php:378
+msgid "None"
+msgstr "Никто"
+
+#: includes/admin/class-redq-rental-post-types.php:382
+msgid "Adult"
+msgstr "Взрослых"
+
+#: includes/admin/class-redq-rental-post-types.php:386
+msgid "Child"
+msgstr "Ребенок"
+
+#: includes/admin/class-redq-rental-post-types.php:396
+#: includes/admin/class-redq-rental-post-types.php:400
+msgid "Person Cost"
+msgstr "Стоимость на человека"
+
+#: includes/admin/class-redq-rental-post-types.php:399
+msgid "P.Cost"
+msgstr "P.Cost"
+
+#: includes/admin/class-redq-rental-post-types.php:440
+#: includes/admin/class-redq-rental-post-types.php:444
+msgid "Security Deposite Cost"
+msgstr "Стоимость Deposite безопасности"
+
+#: includes/admin/class-redq-rental-post-types.php:443
+msgid "S.D.Cost"
+msgstr "S.D.Cost"
+
+#: includes/admin/class-redq-rental-post-types.php:484
+msgid "Security Deposite Clickable"
+msgstr "Активная безопасность deposite"
+
+#: includes/admin/class-redq-rental-post-types.php:487
+msgid "Clickable"
+msgstr "Активная"
+
+#: includes/admin/class-redq-rental-post-types.php:507
+msgid "Pickup Cost"
+msgstr "самовывоз"
+
+#: includes/admin/class-redq-rental-post-types.php:511
+msgid "Pickup Location Cost"
+msgstr "Стоимость доставки авто к месту получения"
+
+#: includes/admin/class-redq-rental-post-types.php:519
+#: includes/admin/class-redq-rental-post-types.php:522
+#: includes/admin/class-redq-rental-post-types.php:523
+#: includes/admin/class-redq-rental-post-types.php:554
+#: includes/admin/class-redq-rental-post-types.php:557
+#: includes/admin/class-redq-rental-post-types.php:558
+msgid "Latitude"
+msgstr "Северо-Восток Широта"
+
+#: includes/admin/class-redq-rental-post-types.php:529
+#: includes/admin/class-redq-rental-post-types.php:532
+#: includes/admin/class-redq-rental-post-types.php:533
+#: includes/admin/class-redq-rental-post-types.php:564
+#: includes/admin/class-redq-rental-post-types.php:567
+#: includes/admin/class-redq-rental-post-types.php:568
+msgid "Longitude"
+msgstr "Северо-восточной долготы"
+
+#: includes/admin/class-redq-rental-post-types.php:542
+msgid "Dropoff Cost"
+msgstr "Расходы на спад"
+
+#: includes/admin/class-redq-rental-post-types.php:546
+msgid "Dropoff Location Cost"
+msgstr "Стоимость местоположение прерывания"
+
+#: includes/admin/class-redq-rental-post-types.php:576
+#: includes/admin/class-redq-rental-post-types.php:580
+msgid "Attribute Name"
+msgstr "Имя атрибута"
+
+#: includes/admin/class-redq-rental-post-types.php:579
+msgid "A.Name"
+msgstr "A.Name"
+
+#: includes/admin/class-redq-rental-post-types.php:586
+#: includes/admin/class-redq-rental-post-types.php:590
+msgid "Attribute Value"
+msgstr "Значение атрибута"
+
+#: includes/admin/class-redq-rental-post-types.php:589
+msgid "A.Value"
+msgstr "A.Value"
+
+#: includes/admin/class-redq-rental-post-types.php:596
+msgid "Choose Image/Icon"
+msgstr "Выбрать изображение"
+
+#: includes/admin/class-redq-rental-post-types.php:599
+msgid "I.Type"
+msgstr "Я печатаю"
+
+#: includes/admin/class-redq-rental-post-types.php:614
+msgid "Attribute Icon"
+msgstr "Значок Атрибута"
+
+#: includes/admin/class-redq-rental-post-types.php:617
+msgid "Icon"
+msgstr "Иконка"
+
+#: includes/admin/class-redq-rental-post-types.php:618
+msgid "Font-awesome icon Ex. fa fa-car"
+msgstr "Иконка Font Awesome (напр.: fa fa-apple)"
+
+#: includes/admin/class-redq-rental-post-types.php:624
+msgid "Attribute Image"
+msgstr "Изображение атрибута"
+
+#: includes/admin/class-redq-rental-post-types.php:627
+#: includes/admin/class-redq-rental-post-types.php:675
+msgid "Image"
+msgstr "Изображение"
+
+#: includes/admin/class-redq-rental-post-types.php:632
+#: includes/admin/class-redq-rental-post-types.php:652
+msgid "Highlighted Or Not"
+msgstr "Выделено или нет"
+
+#: includes/admin/class-redq-rental-post-types.php:635
+#: includes/admin/class-redq-rental-post-types.php:655
+msgid "Highlighted"
+msgstr "Выделено"
+
+#: includes/admin/class-redq-rental-post-types.php:672
+msgid "Car Company Image"
+msgstr "Изображение компании"
+
+#: includes/admin/class-redq-rental-post-types.php:696
+msgid "Search "
+msgstr "Поиск"
+
+#: includes/admin/class-redq-rental-post-types.php:697
+msgid "All "
+msgstr "Все"
+
+#: includes/admin/class-redq-rental-post-types.php:698
+#: includes/admin/class-redq-rental-post-types.php:699
+msgid "Parent "
+msgstr "Основной"
+
+#: includes/admin/class-redq-rental-post-types.php:700
+msgid "Edit "
+msgstr "Изменить"
+
+#: includes/admin/class-redq-rental-post-types.php:701
+msgid "Update "
+msgstr "Обновить"
+
+#: includes/admin/class-redq-rental-post-types.php:702
+msgid "Add New "
+msgstr "Добавить Новый"
+
+#: includes/admin/class-redq-rental-post-types.php:703
+msgid "New "
+msgstr "Новый"
+
+#: includes/admin/class-redq-rental-post-types.php:1046
+msgid "Availability Management"
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:1055
+msgid "Quantity Management"
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:1066
+msgid "Quote Actions"
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:1075
+msgid "Request For A Quote Message"
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:1103
+msgid "Quote Status"
+msgstr "Цитата статус"
+
+#: includes/admin/class-redq-rental-post-types.php:1107
+#: includes/redq-quote-functions.php:11 redq-rental-and-bookings.php:336
+msgctxt "Quote status"
+msgid "Pending"
+msgstr "На рассмотрении"
+
+#: includes/admin/class-redq-rental-post-types.php:1108
+#: includes/redq-quote-functions.php:12 redq-rental-and-bookings.php:344
+msgctxt "Quote status"
+msgid "Processing"
+msgstr "в обработке"
+
+#: includes/admin/class-redq-rental-post-types.php:1109
+#: includes/redq-quote-functions.php:13 redq-rental-and-bookings.php:352
+msgctxt "Quote status"
+msgid "On Hold"
+msgstr "На удерживании"
+
+#: includes/admin/class-redq-rental-post-types.php:1110
+#: redq-rental-and-bookings.php:360
+msgctxt "Quote status"
+msgid "Accepted"
+msgstr "Принятый"
+
+#: includes/admin/class-redq-rental-post-types.php:1111
+#: includes/redq-quote-functions.php:14 redq-rental-and-bookings.php:368
+msgctxt "Quote status"
+msgid "Completed"
+msgstr "Прочтено"
+
+#: includes/admin/class-redq-rental-post-types.php:1112
+#: includes/redq-quote-functions.php:15 redq-rental-and-bookings.php:376
+msgctxt "Quote status"
+msgid "Cancelled"
+msgstr "Отменён"
+
+#: includes/admin/class-redq-rental-post-types.php:1123
+msgid "Price"
+msgstr "Цена"
+
+#: includes/admin/class-redq-rental-post-types.php:1136
+msgid "Delete Permanently"
+msgstr "Удалить навсегда"
+
+#: includes/admin/class-redq-rental-post-types.php:1138
+msgid "Move to Trash"
+msgstr "Перейти в корзину"
+
+#: includes/admin/class-redq-rental-post-types.php:1143
+msgid "Update Quote"
+msgstr "Обновить"
+
+#: includes/admin/class-redq-rental-post-types.php:1143
+#, php-format
+msgid "Update the %s"
+msgstr "Обновить"
+
+#: includes/admin/class-redq-rental-post-types.php:1151
+msgid "Details"
+msgstr "Детали"
+
+#: includes/admin/class-redq-rental-post-types.php:1162
+msgid "Request for:"
+msgstr "запрос на"
+
+#: includes/admin/class-redq-rental-post-types.php:1323
+msgid "Quote Price"
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:1340
+msgid "Customer information"
+msgstr "Данные пользователя"
+
+#: includes/admin/class-redq-rental-post-types.php:1357
+msgid "ADD MESSAGE"
+msgstr "Добавить сообщение"
+
+#: includes/admin/class-redq-rental-post-types.php:1386
+#: templates/myaccount/view-quote.php:317
+#, php-format
+msgid "added on %1$s at %2$s"
+msgstr "добавлено %1$s в %2$s"
+
+#: includes/admin/class-redq-rental-post-types.php:1387
+#: templates/myaccount/view-quote.php:318
+#, php-format
+msgid "by %s"
+msgstr "by %s"
+
+#: includes/admin/class-redq-rental-post-types.php:1388
+msgid "Delete"
+msgstr "Удалить"
+
+#: includes/admin/class-redq-rental-post-types.php:1404
+msgid "Set Quantity"
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:1405
+msgid "Add invenotry quantity"
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:1408
+msgid "Minimum 1 is required for each invenotry to work with."
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:1418
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:18
+msgid "Per Kilometer Price ( "
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:1419
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:19
+msgid "Per Kilometer Price"
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:1422
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:22
+msgid ""
+"If you select booking layout two then for location price it will be applied"
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:1429
+msgid "Configure Hourly Pricing Plans"
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:1434
+msgid "Set Hourly Price Type"
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:1435
+#: includes/admin/class-redq-rental-post-types.php:1489
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:5
+#, php-format
+msgid "Choose a price type - this controls the <a href=\"%s\">schema</a>."
+msgstr "Выберите тип цен - это контролирует <a href=\"%s\">схему</a> ."
+
+#: includes/admin/class-redq-rental-post-types.php:1437
+msgid "General Hourly Pricing"
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:1438
+msgid "Hourly Range Pricing"
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:1448
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:30
+msgid "Hourly Price ( "
+msgstr "Почасовая Цена ("
+
+#: includes/admin/class-redq-rental-post-types.php:1449
+#: includes/admin/class-redq-rental-post-types.php:1500
+#: includes/admin/class-redq-rental-post-types.php:1521
+#: includes/admin/class-redq-rental-post-types.php:1522
+#: includes/admin/class-redq-rental-post-types.php:1523
+#: includes/admin/class-redq-rental-post-types.php:1524
+#: includes/admin/class-redq-rental-post-types.php:1525
+#: includes/admin/class-redq-rental-post-types.php:1526
+#: includes/admin/class-redq-rental-post-types.php:1527
+#: includes/admin/class-redq-rental-post-types.php:1551
+#: includes/admin/class-redq-rental-post-types.php:1553
+#: includes/admin/class-redq-rental-post-types.php:1555
+#: includes/admin/class-redq-rental-post-types.php:1557
+#: includes/admin/class-redq-rental-post-types.php:1559
+#: includes/admin/class-redq-rental-post-types.php:1561
+#: includes/admin/class-redq-rental-post-types.php:1563
+#: includes/admin/class-redq-rental-post-types.php:1565
+#: includes/admin/class-redq-rental-post-types.php:1567
+#: includes/admin/class-redq-rental-post-types.php:1569
+#: includes/admin/class-redq-rental-post-types.php:1571
+#: includes/admin/class-redq-rental-post-types.php:1573
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:30
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:37
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:58
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:59
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:60
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:61
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:62
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:63
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:64
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:88
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:90
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:92
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:94
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:96
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:98
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:100
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:102
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:104
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:106
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:108
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:110
+msgid "Enter price here"
+msgstr "Указать цену"
+
+#: includes/admin/class-redq-rental-post-types.php:1451
+msgid "Hourly price will be applicable if booking or rental days min 1day"
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:1457
+msgid "Set hourly ranges pricing plans"
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:1468
+msgid "Add Hourly Range"
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:1487
+msgid "Configure Daily Pricing Plans"
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:1489
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:5
+msgid "Set Price Type"
+msgstr "Стоимость"
+
+#: includes/admin/class-redq-rental-post-types.php:1490
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:6
+msgid "General Pricing"
+msgstr "Общие Цены"
+
+#: includes/admin/class-redq-rental-post-types.php:1491
+#: includes/admin/class-redq-rental-settings-rnb.php:848
+#: includes/admin/views/html-product-settings-data.php:914
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:7
+msgid "Daily Pricing"
+msgstr "Ежедневно Цены"
+
+#: includes/admin/class-redq-rental-post-types.php:1492
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:8
+msgid "Monthly Pricing"
+msgstr "Ежемесячные цены"
+
+#: includes/admin/class-redq-rental-post-types.php:1493
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:9
+msgid "Days Range Pricing"
+msgstr "Дни диапазон цен"
+
+#: includes/admin/class-redq-rental-post-types.php:1498
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:35
+msgid "Set general pricing plan"
+msgstr "Набор общих ценообразование план"
+
+#: includes/admin/class-redq-rental-post-types.php:1500
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:37
+msgid "General Price ( "
+msgstr "Общая цена ("
+
+#: includes/admin/class-redq-rental-post-types.php:1505
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:42
+msgid "Set daily pricing Plan"
+msgstr "Установить ежедневный план ценообразования"
+
+#: includes/admin/class-redq-rental-post-types.php:1521
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:58
+msgid "Friday ( "
+msgstr "пятница ("
+
+#: includes/admin/class-redq-rental-post-types.php:1522
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:59
+msgid "Saturday ( "
+msgstr "суббота ("
+
+#: includes/admin/class-redq-rental-post-types.php:1523
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:60
+msgid "Sunday ( "
+msgstr "Воскресенье ("
+
+#: includes/admin/class-redq-rental-post-types.php:1524
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:61
+msgid "Monday ( "
+msgstr "Понедельник ("
+
+#: includes/admin/class-redq-rental-post-types.php:1525
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:62
+msgid "Tuesday ( "
+msgstr "вторник ("
+
+#: includes/admin/class-redq-rental-post-types.php:1526
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:63
+msgid "Wednesday ( "
+msgstr "среда ("
+
+#: includes/admin/class-redq-rental-post-types.php:1527
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:64
+msgid "Thursday ( "
+msgstr "Четверг"
+
+#: includes/admin/class-redq-rental-post-types.php:1532
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:69
+msgid "Set monthly pricing plan"
+msgstr "Набор, ежемесячно цены план"
+
+#: includes/admin/class-redq-rental-post-types.php:1551
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:88
+msgid "January ( "
+msgstr "января"
+
+#: includes/admin/class-redq-rental-post-types.php:1553
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:90
+msgid "February ( "
+msgstr "февраля"
+
+#: includes/admin/class-redq-rental-post-types.php:1555
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:92
+msgid "March ( "
+msgstr "марта"
+
+#: includes/admin/class-redq-rental-post-types.php:1557
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:94
+msgid "April ( "
+msgstr "Апрель ("
+
+#: includes/admin/class-redq-rental-post-types.php:1559
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:96
+msgid "May ( "
+msgstr "мая"
+
+#: includes/admin/class-redq-rental-post-types.php:1561
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:98
+msgid "June ( "
+msgstr "июня"
+
+#: includes/admin/class-redq-rental-post-types.php:1563
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:100
+msgid "July ( "
+msgstr "июля ("
+
+#: includes/admin/class-redq-rental-post-types.php:1565
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:102
+msgid "August ( "
+msgstr "август ("
+
+#: includes/admin/class-redq-rental-post-types.php:1567
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:104
+msgid "September ( "
+msgstr "сентября"
+
+#: includes/admin/class-redq-rental-post-types.php:1569
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:106
+msgid "October ( "
+msgstr "октебря"
+
+#: includes/admin/class-redq-rental-post-types.php:1571
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:108
+msgid "November ( "
+msgstr "ноябрь ("
+
+#: includes/admin/class-redq-rental-post-types.php:1573
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:110
+msgid "December ( "
+msgstr "Декабрь ("
+
+#: includes/admin/class-redq-rental-post-types.php:1580
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:116
+msgid "Set day ranges pricing plans"
+msgstr "Установить день диапазонов тарифных планов"
+
+#: includes/admin/class-redq-rental-post-types.php:1591
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:127
+msgid "Add Days Range"
+msgstr "Добавить диапазон"
+
+#: includes/admin/class-redq-rental-post-types.php:1625
+msgid "Product Date Availabilities"
+msgstr "Дата наличия продукта"
+
+#: includes/admin/class-redq-rental-post-types.php:1633
+msgid "Block type"
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:1634
+msgid "Pickup Datetime"
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:1635
+msgid "Dropoff Datetime"
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:1636
+msgid "Row ID"
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:1648
+msgid "Block Dates"
+msgstr ""
+
+#: includes/admin/class-redq-rental-post-types.php:1649
+msgid "Please select the date range to be disabled for the product."
+msgstr "Пожалуйста, выберите диапазон дат, для отключения продукта."
+
+#: includes/admin/class-redq-rental-settings-rnb.php:30
+msgid "RnB Settings"
+msgstr "RnB параметры"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:47
+msgid "General"
+msgstr "Общая информация"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:48
+#: includes/admin/views/html-product-settings-data.php:7
+msgid "Display"
+msgstr "Отображение"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:49
+#: includes/admin/views/html-product-settings-data.php:8
+msgid "Labels"
+msgstr "Ярлыки"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:50
+#: includes/admin/views/html-product-settings-data.php:9
+msgid "Conditions"
+msgstr "Условия"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:51
+#: includes/admin/views/html-product-settings-data.php:10
+msgid "Validations"
+msgstr "Валидация"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:52
+msgid "Layout 2 (Extra Settings)"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:95
+msgid "Show or Hide DateTime Fields"
+msgstr "Показать или скрыть поля DateTime"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:102
+#: includes/admin/class-redq-rental-settings-rnb.php:103
+msgid "Enable DateTime Fields"
+msgstr "Включить поля DateTime"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:112
+#: includes/admin/views/html-product-settings-data.php:47
+msgid "Show Pickup Date"
+msgstr "Показать Самовывоз Дата"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:122
+#: includes/admin/views/html-product-settings-data.php:70
+msgid "Show Pickup Time"
+msgstr "Пикап время шоу"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:132
+msgid "Show Drop-off Date"
+msgstr "Дата высадки"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:142
+msgid "Show Drop-off Time"
+msgstr "Время сдачи"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:152
+#: includes/admin/views/html-product-settings-data.php:140
+msgid "Enable Quantity"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:153
+msgid "Enable Quantity Field"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:165
+msgid "Display Button Options"
+msgstr "Опции кнопки дисплея"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:172
+msgid "Button Options"
+msgstr "Параметры кнопки"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:173
+msgid "Show Book Now Button"
+msgstr "Поаказать кнопку Забронировать"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:180
+msgid "Show Request For Quote Button"
+msgstr "Показать кнопку запроса сообщения"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:192
+msgid "Others Options"
+msgstr "Другие опции"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:199
+#: includes/admin/class-redq-rental-settings-rnb.php:200
+msgid "Show Price FlipBox"
+msgstr "Показать цену FlipBox"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:207
+#: includes/admin/class-redq-rental-settings-rnb.php:208
+msgid "Show Price Discount"
+msgstr "Скидка с цены"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:215
+#: includes/admin/class-redq-rental-settings-rnb.php:216
+msgid "Show Instance Payment"
+msgstr "Показать экземпляр оплаты"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:233
+msgid "Labels In Product Single Page"
+msgstr "Ярлыки на одной странице продукта"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:239
+msgid "Choose Inventory Title"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:241
+msgid "This text will show as inventory title in front-end"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:243
+#: includes/admin/class-redq-rental-settings-rnb.php:244
+#: includes/admin/views/html-product-settings-data.php:289
+#: includes/admin/views/html-product-settings-data.php:290
+#: includes/redq-rental-global-functions.php:1194
+msgid "Choose Inventory"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:251
+msgid "Show Pricing Title"
+msgstr "Описание тарифа"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:253
+#: includes/admin/class-redq-rental-settings-rnb.php:265
+msgid "This text will show as pricing title in front-end"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:255
+#: includes/admin/class-redq-rental-settings-rnb.php:256
+#: includes/redq-rental-global-functions.php:1117
+#: includes/redq-rental-global-functions.php:1202
+msgid "Show Pricing"
+msgstr "Показать цены"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:263
+msgid "Pricing Info Title"
+msgstr "Информация о ценах"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:267
+#: includes/admin/class-redq-rental-settings-rnb.php:268
+#: includes/redq-rental-global-functions.php:1118
+#: includes/redq-rental-global-functions.php:1203
+msgid "Pricing Info"
+msgstr "Ценовая Информация"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:275
+msgid "Pickup Location Title"
+msgstr "Название местоположения раскладки"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:277
+msgid "This text will show as Pickup location title in front-end"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:287
+#: includes/admin/views/html-product-settings-data.php:342
+msgid "Pickup Location Placeholder"
+msgstr "Место посадки"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:289
+msgid "This text will show as Pickup location placeholder in front-end"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:291
+msgid "Choose Pickup Location"
+msgstr "Выберите магазин"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:299
+msgid "Dropoff Location Title"
+msgstr "Название местоположения прерывания"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:301
+msgid "This text will show as Dropoff location title in front-end"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:311
+#: includes/admin/views/html-product-settings-data.php:366
+msgid "Dropoff Location Placeholder"
+msgstr "Месторасположение Placeoff Placeoff"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:313
+msgid "This text will show as Dropoff location placeholder in front-end"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:323
+msgid "Pickup DateTime Title"
+msgstr "Дата выпуска DateTime"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:325
+msgid "This text will show as Pickup Date title in front-end"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:327
+#: includes/admin/class-redq-rental-settings-rnb.php:328
+#: includes/redq-rental-global-functions.php:1166
+msgid "Pickup Date & Time"
+msgstr "Дата и время получения"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:335
+#: includes/admin/views/html-product-settings-data.php:391
+msgid "Pickup Date Placeholder"
+msgstr "Прототип пикап даты"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:337
+msgid "This text will show as Pickup Date Placeholder in front-end"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:339
+#: includes/admin/class-redq-rental-settings-rnb.php:340
+msgid "Pickup Date"
+msgstr "Показать даты отправки"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:347
+#: includes/admin/views/html-product-settings-data.php:404
+msgid "Pickup Time Placeholder"
+msgstr "Пикап времени заполнитель"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:349
+msgid "This text will show as Pickup Time Placeholder in front-end"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:351
+#: includes/admin/class-redq-rental-settings-rnb.php:352
+msgid "Pickup Time"
+msgstr "Время подачи автомобиля"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:360
+msgid "Dropoff DateTime Title"
+msgstr "Название события Dropoff DateTime"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:362
+msgid "This text will show as Dropoff Date title in front-end"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:364
+#: includes/admin/class-redq-rental-settings-rnb.php:365
+msgid "Dropoff Date & Time"
+msgstr "Спад Дата & время"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:372
+#: includes/admin/views/html-product-settings-data.php:430
+msgid "Drop-off Date Placeholder"
+msgstr "Прототип даты сдачи"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:374
+msgid "This text will show as Drop-off Date Placeholder in front-end"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:376
+#: includes/admin/class-redq-rental-settings-rnb.php:377
+msgid "Drop-off Date"
+msgstr "Дата возврата"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:384
+#: includes/admin/views/html-product-settings-data.php:443
+msgid "Drop-off Time Placeholder"
+msgstr "Заполнитель времени сдачи"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:386
+msgid "This text will show as Drop-off Time Placeholder in front-end"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:388
+#: includes/admin/class-redq-rental-settings-rnb.php:389
+msgid "Drop-off Time"
+msgstr "Время возврата"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:397
+msgid "Quantity Title"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:409
+msgid "Resources Title"
+msgstr "Ресурсы Название"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:411
+msgid "This text will show as resources title in front-end"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:421
+msgid "Categories Title"
+msgstr "Заголовок категорий"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:423
+msgid "This text will show as Categories title in front-end"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:425
+#: includes/admin/class-redq-rental-settings-rnb.php:426
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:96
+#: includes/redq-rental-global-functions.php:1093
+msgid "Categories"
+msgstr "Категории"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:433
+msgid "Deposit Title"
+msgstr "Название депозита"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:435
+msgid "This text will show as Deposit title in front-end"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:437
+#: includes/admin/class-redq-rental-settings-rnb.php:438
+#: includes/redq-rental-global-functions.php:1191
+msgid "Deposit"
+msgstr "Депозит"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:445
+msgid "Adults Title"
+msgstr "Взрослые Название"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:447
+msgid "This text will show as Adults title in front-end"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:449
+#: includes/admin/class-redq-rental-settings-rnb.php:450
+#: includes/redq-rental-global-functions.php:1070
+#: includes/redq-rental-global-functions.php:1176
+#: includes/redq-rental-global-functions.php:1177
+msgid "Adults"
+msgstr "Билетов для взрослых"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:457
+#: includes/admin/views/html-product-settings-data.php:503
+msgid "Adults Placeholder"
+msgstr "заполнитель"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:459
+msgid "This text will show as Adults Placeholder in front-end"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:461
+#: includes/admin/class-redq-rental-settings-rnb.php:462
+#: includes/redq-rental-global-functions.php:1071
+msgid "Choose Adults"
+msgstr "Выберите Взрослые"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:469
+msgid "Childs Title"
+msgstr "Название ребенка"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:471
+msgid "This text will show as Childs title in front-end"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:473
+#: includes/admin/class-redq-rental-settings-rnb.php:474
+#: includes/redq-rental-global-functions.php:1072
+#: includes/redq-rental-global-functions.php:1178
+#: includes/redq-rental-global-functions.php:1179
+msgid "Childs"
+msgstr "Дети"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:481
+#: includes/admin/views/html-product-settings-data.php:527
+msgid "Childs Placeholder"
+msgstr "Заместитель ребенка"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:483
+msgid "This text will show as Childs Placeholder in front-end"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:485
+#: includes/admin/class-redq-rental-settings-rnb.php:486
+#: includes/redq-rental-global-functions.php:1073
+msgid "Choose Childs"
+msgstr "Выбрать детей"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:493
+#: includes/admin/views/html-product-settings-data.php:553
+#: includes/admin/views/html-product-settings-data.php:554
+msgid "Discount Text"
+msgstr "Скидка -"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:495
+msgid "This text will show as discount text in front-end"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:497
+#: includes/admin/class-redq-rental-settings-rnb.php:498
+msgid "Total Discount"
+msgstr "Общая скидка"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:505
+msgid "Instance Pay Text"
+msgstr "Экземпляр"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:507
+msgid "This text will show as Instance Pay text in front-end"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:509
+#: includes/admin/class-redq-rental-settings-rnb.php:510
+msgid "Total Instance Pay"
+msgstr "Общая сумма выплат"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:517
+#: includes/admin/views/html-product-settings-data.php:578
+#: includes/admin/views/html-product-settings-data.php:579
+msgid "Total Cost Text"
+msgstr "Общаястоимость Стоимость"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:519
+msgid "This text will show as Total Cost text in front-end"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:521
+#: includes/admin/class-redq-rental-settings-rnb.php:522
+#: includes/redq-rental-global-functions.php:1110
+#: includes/redq-rental-global-functions.php:1199
+msgid "Total Cost"
+msgstr "Совокупные расходы"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:529
+#: includes/admin/views/html-product-settings-data.php:591
+msgid "Book Now Button Text"
+msgstr "Забронируйте сейчас текст кнопки"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:531
+msgid "This text will show as Book Now text in front-end"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:533
+#: includes/admin/class-redq-rental-settings-rnb.php:534
+#: includes/redq-rental-global-functions.php:1124
+#: includes/redq-rental-global-functions.php:1206
+msgid "Book Now"
+msgstr "Бронируй сейчас"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:542
+#: includes/admin/views/html-product-settings-data.php:603
+#: includes/admin/views/html-product-settings-data.php:604
+msgid "Request For Quote Button Text"
+msgstr "Запрос Цитировать текст кнопки"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:544
+msgid "This text will show as Request For Quote text in front-end"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:546
+#: includes/admin/class-redq-rental-settings-rnb.php:547
+#: includes/admin/class-redq-rental-settings-rnb.php:1450
+#: includes/redq-rental-global-functions.php:1125
+#: includes/redq-rental-global-functions.php:1207
+msgid "Request For Quote"
+msgstr "Отправить запрос на расценки"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:555
+#: includes/admin/views/html-product-settings-data.php:615
+msgid "RFQ username placeholder"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:557
+#: includes/admin/class-redq-rental-settings-rnb.php:570
+#: includes/admin/class-redq-rental-settings-rnb.php:583
+#: includes/admin/class-redq-rental-settings-rnb.php:596
+#: includes/admin/class-redq-rental-settings-rnb.php:609
+#: includes/admin/class-redq-rental-settings-rnb.php:622
+#: includes/admin/class-redq-rental-settings-rnb.php:635
+#: includes/admin/class-redq-rental-settings-rnb.php:648
+msgid "This text will show in the request for quote form"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:559
+#: includes/admin/class-redq-rental-settings-rnb.php:560
+#: includes/admin/views/html-product-settings-data.php:616
+#: includes/redq-rental-global-functions.php:1132
+#: includes/redq-rental-global-functions.php:1211
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:568
+#: includes/admin/views/html-product-settings-data.php:627
+msgid "RFQ password placeholder"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:572
+#: includes/admin/class-redq-rental-settings-rnb.php:573
+msgid "password"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:581
+msgid "RFQ first name placeholder"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:585
+#: includes/admin/class-redq-rental-settings-rnb.php:586
+msgid "First name"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:594
+msgid "RFQ last name placeholder"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:598
+#: includes/admin/class-redq-rental-settings-rnb.php:599
+msgid "Last name"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:607
+#: includes/admin/views/html-product-settings-data.php:663
+msgid "RFQ email placeholder"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:620
+#: includes/admin/views/html-product-settings-data.php:675
+msgid "RFQ phone placeholder"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:624
+#: includes/admin/class-redq-rental-settings-rnb.php:625
+#: includes/admin/views/html-product-settings-data.php:676
+#: includes/redq-rental-global-functions.php:1137
+#: includes/redq-rental-global-functions.php:1216
+msgid "Phone"
+msgstr "Телефон"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:633
+#: includes/admin/views/html-product-settings-data.php:687
+msgid "RFQ message placeholder"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:637
+#: includes/admin/class-redq-rental-settings-rnb.php:638
+#: includes/admin/views/html-product-settings-data.php:688
+#: includes/redq-rental-global-functions.php:1138
+#: includes/redq-rental-global-functions.php:1217
+#: templates/rnb/emails/request-quote-item-details.php:260
+msgid "Message"
+msgstr "Сообщение"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:646
+#: includes/admin/views/html-product-settings-data.php:699
+msgid "RFQ submit button text"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:650
+#: includes/admin/class-redq-rental-settings-rnb.php:651
+#: includes/admin/views/html-product-settings-data.php:700
+#: includes/redq-rental-global-functions.php:1139
+#: includes/redq-rental-global-functions.php:1218
+#: templates/rnb/booking-content/pickup-datetimes.php:33
+#: templates/rnb/booking-content/return-datetimes.php:32
+msgid "Submit"
+msgstr "Подтвердить"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:667
+msgid "Choose Different Conditions Logic For Products"
+msgstr "Выберите различные условия Логика для продуктов"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:673
+#: includes/admin/views/html-product-settings-data.php:735
+msgid "Date Format"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:674
+#: includes/admin/views/html-product-settings-data.php:736
+msgid "Date will display in this format all place in rental product"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:681
+#: includes/admin/views/html-product-settings-data.php:739
+msgid "m/d/Y"
+msgstr "m/d/Y"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:682
+#: includes/admin/views/html-product-settings-data.php:740
+msgid "d/m/Y"
+msgstr "d/m/Y"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:683
+#: includes/admin/views/html-product-settings-data.php:741
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:690
+#: includes/admin/views/html-product-settings-data.php:751
+msgid "Time Format"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:691
+#: includes/admin/views/html-product-settings-data.php:752
+msgid "This will be applicable in the time picker field in product page"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:698
+#: includes/admin/views/html-product-settings-data.php:754
+msgid "24 Hours"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:699
+#: includes/admin/views/html-product-settings-data.php:755
+msgid "12 Hours"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:706
+#: includes/admin/views/html-product-settings-data.php:766
+msgid "Max Hour Late"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:707
+#: includes/admin/views/html-product-settings-data.php:767
+msgid ""
+"Another day will count if customer returns by exceeding this no. of hour. "
+"Suppose you set the hour as 2. Now if a customer place an order from  "
+"10/10/2018 at 10:00 to 12/10/2018 at 12:00 he will be charged for 2 days "
+"( although here is 50 hours means 2days and 2 hours). Now if he returns "
+"after 12/10/2018 at 12:00 then he will be charged for 3days "
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:721
+#: includes/admin/views/html-product-settings-data.php:786
+msgid "Single Day Booking"
+msgstr "Один день бронирования"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:722
+#: includes/admin/views/html-product-settings-data.php:788
+msgid ""
+"Checked : If pickup and return date are same then it counts as 1-day. Also "
+"select this for single date. FYI : Set max time late as at least 0 for this. "
+"UnChecked : If pickup and return date are same then it counts as 0-day. Also "
+"select this for single date. "
+msgstr ""
+"Проверено: Если пикап и вернуться даты же он подсчитывает как 1 день. Также "
+"выберите для одной даты. FYI: Установить максимальное время поздно как "
+"минимум 0 для этого. UnChecked: Если пикап и вернуться даты же он "
+"подсчитывает как 0-day. Также выберите для одной даты."
+
+#: includes/admin/class-redq-rental-settings-rnb.php:729
+msgid "Max Booking Days"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:730
+#: includes/admin/class-redq-rental-settings-rnb.php:745
+#: includes/admin/views/html-product-settings-data.php:801
+#: includes/admin/views/html-product-settings-data.php:820
+msgid ""
+"No. of days that customer must have to select during placing an order "
+"otherwise he will not be allowed to place an order"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:731
+msgid "E.g. - 6"
+msgstr "например, 6"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:744
+msgid "Min Booking Days"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:746
+#: includes/admin/class-redq-rental-settings-rnb.php:761
+#: includes/admin/class-redq-rental-settings-rnb.php:778
+#: includes/admin/class-redq-rental-settings-rnb.php:794
+#: includes/admin/class-redq-rental-settings-rnb.php:1364
+#: includes/admin/views/html-product-settings-data.php:837
+#: includes/admin/views/html-product-settings-data.php:855
+#: includes/admin/views/html-product-settings-data.php:874
+msgid "E.g. - 2"
+msgstr "например, 2"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:759
+#: includes/admin/views/html-product-settings-data.php:836
+msgid "Initially blocked dates in calendar"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:760
+#: includes/admin/views/html-product-settings-data.php:838
+msgid ""
+"If you set the value as 2, When someone open the calendar in product page if "
+"today is 10/10/2018 then customer will see the initially bookable date as "
+"12/10/2018"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:776
+#: includes/admin/views/html-product-settings-data.php:854
+msgid "Pre Booking Block Days"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:777
+#: includes/admin/views/html-product-settings-data.php:856
+msgid ""
+"Selected no. of days will be blocked automatically after a booking order and "
+"customer will not be charged for extra these days. Suppose you set the value "
+"2. Now if any customer books date from 10/10/18 to 12/10/18 then after "
+"completing the order 08/10/18 to 10/10/18 date will be disabled in calendar "
+"for this order. Although customer will not be charged for these extra 2 days"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:792
+#: includes/admin/views/html-product-settings-data.php:873
+msgid "Post Booking Block Days"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:793
+#: includes/admin/views/html-product-settings-data.php:875
+msgid ""
+"Selected no. of days will be blocked automatically after a booking and "
+"customer will not be charged for extra these days. Suppose you set the value "
+"2. Now if any customer books date from 10/10/18 to 12/10/18 then after "
+"completing the order 10/10/18 to 14/10/18 date will be disabled in calendar "
+"for this order. Although customer will not be charged for these extra 2 days"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:807
+msgid "Time Intervals (Mins)"
+msgstr "Временные интервалы (мин.)"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:808
+#: includes/admin/views/html-product-settings-data.php:893
+msgid ""
+"Time Interval in mins E.g. - 20. Time interval will not work if you use "
+"allowed times options"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:809
+msgid "E.g. - 20"
+msgstr "Например - 20"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:825
+msgid "Allowed Times (Comma, separated)"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:827
+#: includes/admin/views/html-product-settings-data.php:928
+#: includes/admin/views/html-product-settings-data.php:929
+msgid ""
+"Enter allowed time in comma separated format like 10:00, 12:00 (For 24 hour "
+"time format) or 10:00 am, 11:00 am (For 12 hour time format. Use space "
+"before am or pm) "
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:829
+msgid ""
+"Enter allowed time in comma separated format like 10:00, 12:00 (For 24 hour "
+"date format) or 10:00 am, 11:00 am (For 12 hour date format. Use space "
+"before am or pm) "
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:840
+msgid "Show Product Price"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:841
+msgid ""
+"If you set daily pricing then per day price will show as product price, if "
+"you set hourly pricing then hour price will show as product price"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:849
+#: includes/admin/views/html-product-settings-data.php:915
+msgid "Hourly Pricing"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:855
+#: includes/admin/views/html-product-settings-data.php:970
+msgid "Select Weekends"
+msgstr "Выберите выходные"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:856
+msgid "Choose Weekends"
+msgstr "Выберите выходные дни"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:863
+#: includes/admin/class-redq-rental-settings-rnb.php:1434
+#: includes/admin/views/html-product-settings-data.php:952
+#: includes/admin/views/html-product-settings-data.php:1135
+#: includes/class-redq-product-redq_rental.php:568
+#: includes/redq-rental-global-functions.php:1361
+msgid "Sunday"
+msgstr "Воскресенье"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:864
+#: includes/admin/class-redq-rental-settings-rnb.php:1435
+#: includes/admin/views/html-product-settings-data.php:953
+#: includes/admin/views/html-product-settings-data.php:1155
+#: includes/class-redq-product-redq_rental.php:571
+#: includes/redq-rental-global-functions.php:1362
+msgid "Monday"
+msgstr "Понедельник"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:865
+#: includes/admin/class-redq-rental-settings-rnb.php:1436
+#: includes/admin/views/html-product-settings-data.php:954
+#: includes/admin/views/html-product-settings-data.php:1175
+#: includes/class-redq-product-redq_rental.php:574
+#: includes/redq-rental-global-functions.php:1363
+msgid "Tuesday"
+msgstr "Вторник"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:866
+#: includes/admin/class-redq-rental-settings-rnb.php:1437
+#: includes/admin/views/html-product-settings-data.php:955
+#: includes/admin/views/html-product-settings-data.php:1195
+#: includes/class-redq-product-redq_rental.php:577
+#: includes/redq-rental-global-functions.php:1364
+msgid "Wednesday"
+msgstr "Среда"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:867
+#: includes/admin/class-redq-rental-settings-rnb.php:1438
+#: includes/admin/views/html-product-settings-data.php:956
+#: includes/admin/views/html-product-settings-data.php:1215
+#: includes/class-redq-product-redq_rental.php:580
+#: includes/redq-rental-global-functions.php:1365
+msgid "Thursday"
+msgstr "Четверг"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:868
+#: includes/admin/class-redq-rental-settings-rnb.php:1439
+#: includes/admin/views/html-product-settings-data.php:957
+#: includes/admin/views/html-product-settings-data.php:1095
+#: includes/class-redq-product-redq_rental.php:562
+#: includes/redq-rental-global-functions.php:1359
+msgid "Friday"
+msgstr "Пятница"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:869
+#: includes/admin/class-redq-rental-settings-rnb.php:1440
+#: includes/admin/views/html-product-settings-data.php:958
+#: includes/admin/views/html-product-settings-data.php:1115
+#: includes/class-redq-product-redq_rental.php:565
+#: includes/redq-rental-global-functions.php:1360
+msgid "Saturday"
+msgstr "Суббота"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:874
+msgid "Choose Layout"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:875
+#: includes/admin/views/html-product-settings-data.php:941
+msgid ""
+"Choose your booking page layout. Either it will be normal view or modal view"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:882
+#: includes/admin/views/html-product-settings-data.php:943
+msgid "Normal Layout"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:883
+#: includes/admin/views/html-product-settings-data.php:944
+msgid "Modal Layout"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:903
+msgid "Enable or Disable Required Fields"
+msgstr "Включение или отключение обязательных полей"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:910
+msgid "Required Fields"
+msgstr "Обязательные поля"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:911
+msgid "Choose Value Must Required Fields"
+msgstr "Выберите значение Обязательные поля"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:920
+#: includes/admin/views/html-product-settings-data.php:1014
+msgid "Required Pickup Location"
+msgstr "Стоимость доставки авто к месту получения"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:930
+msgid "Required Drop-off Location"
+msgstr "Требуемое место высадки"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:940
+#: includes/admin/views/html-product-settings-data.php:1059
+msgid "Required Pickup Time"
+msgstr "Требуемое время пикап"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:950
+msgid "Required Drop-off Time"
+msgstr "Требуемое время выпадения"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:960
+#: includes/admin/views/html-product-settings-data.php:1044
+msgid "Required Person"
+msgstr "Требуется человек"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:979
+msgid "Extra Fields For Layout Two"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:985
+msgid "RnB background color"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:986
+#, php-format
+msgid "The main RnB background color. Default %s."
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:997
+#: includes/admin/class-redq-rental-settings-rnb.php:1000
+msgid "Date Top Heading"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1007
+msgid "Date Top Description"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1010
+msgid "Date top description"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1022
+#: includes/admin/class-redq-rental-settings-rnb.php:1025
+msgid "Date Inner Heading"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1032
+#: includes/admin/class-redq-rental-settings-rnb.php:1035
+msgid "Date Inner Description"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1047
+#: includes/admin/class-redq-rental-settings-rnb.php:1050
+msgid "Location Top Heading"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1057
+msgid "Location Top Description"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1060
+msgid "Location top description"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1071
+#: includes/admin/class-redq-rental-settings-rnb.php:1074
+msgid "Location Inner Heading"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1081
+#: includes/admin/class-redq-rental-settings-rnb.php:1084
+msgid "Location Inner Description"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1096
+#: includes/admin/class-redq-rental-settings-rnb.php:1099
+msgid "Resource Top Heading"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1106
+msgid "Resource Top Description"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1109
+msgid "Resource top description"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1121
+#: includes/admin/class-redq-rental-settings-rnb.php:1124
+msgid "Resource Inner Heading"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1131
+#: includes/admin/class-redq-rental-settings-rnb.php:1134
+msgid "Resource Inner Description"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1146
+#: includes/admin/class-redq-rental-settings-rnb.php:1149
+msgid "Person Top Heading"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1156
+msgid "Person Top Description"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1159
+msgid "Person top description"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1171
+#: includes/admin/class-redq-rental-settings-rnb.php:1174
+msgid "Person Inner Heading"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1181
+#: includes/admin/class-redq-rental-settings-rnb.php:1184
+msgid "Person Inner Description"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1196
+#: includes/admin/class-redq-rental-settings-rnb.php:1199
+msgid "Deposit Top Heading"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1206
+msgid "Deposit Top Description"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1209
+msgid "Deposit top description"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1221
+#: includes/admin/class-redq-rental-settings-rnb.php:1224
+msgid "Deposit Inner Heading"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1231
+#: includes/admin/class-redq-rental-settings-rnb.php:1234
+msgid "Deposit Inner Description"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1246
+#: includes/admin/class-redq-rental-settings-rnb.php:1249
+msgid "Summary Top Heading"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1256
+msgid "Summary Top Description"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1259
+msgid "Summary top description"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1271
+#: includes/admin/class-redq-rental-settings-rnb.php:1274
+msgid "Summary Inner Heading"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1281
+#: includes/admin/class-redq-rental-settings-rnb.php:1284
+msgid "Summary Inner Description"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1304
+msgid "Make Product Calendar In Your Language"
+msgstr "Сделать Календарь продукта на вашем языке"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1310
+msgid "Language Domain"
+msgstr "Языковой домен"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1312
+msgid "Enter your language domain. E.g. - de"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1314
+msgid "Lanuage Domain E.g - fr"
+msgstr "Lanuage Domain Eg - fr"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1321
+msgid "Weekdays Names (Comma , separated)"
+msgstr "Имена дней недели (Comma, разделенные)"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1323
+#: includes/admin/class-redq-rental-settings-rnb.php:1325
+msgid "Write weekday name in comma separated e.g. - So, Mo, Di, Mi, Do, Fr, Sa"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1335
+msgid "Month Names (, separated)"
+msgstr "Месячные имена (, разделенные)"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1337
+msgid ""
+"Write month name in comma separated. E.g - Januar,Februar,März,April, Mai,"
+"Juni,Juli,August,September,Oktober,November,Dezember"
+msgstr ""
+"Введите имя месяца в запятой. Например: Januar, Februar, März, April, Mai, "
+"Juni, Juli, August, September, Oktober, November, Dezember"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1339
+msgid ""
+"Enter month name in comma formatted. Eg.-Januar,Februar,März,April,Mai,Juni,"
+"Juli,August,September,Oktober,November,Dezember"
+msgstr ""
+"Введите имя месяца в формате с запятой. Eg.-Januar, Februar, März, апрель, "
+"май, июнь, Juli, август, сентябрь, октябрь, ноябрь, Dezember"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1355
+msgid "Configure Instance Payments"
+msgstr "Настройка платежей по экземплярам"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1361
+msgid "Pay During Booking"
+msgstr "Оплатить при бронировании"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1363
+msgid ""
+"You must have to pay this percentage (%) amount during booking. default pay "
+"amount value is 100%"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1384
+msgid "Miscellaneous Sections"
+msgstr "Другие разделы"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1390
+#: includes/admin/class-redq-rental-settings-rnb.php:1391
+msgid "Show Price Info At Top in Price Flip box"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1398
+msgid "Shop Page Button Label"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1400
+msgid "Enter Your Shop Page Button Label. E.g. - Read More"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1402
+#: includes/admin/class-redq-rental-settings-rnb.php:1403
+#: includes/class-redq-product-redq_rental.php:486
+msgid "Read More"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1411
+msgid "Holidays"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1413
+msgid ""
+"Enter holidays in this format E.g.: 2018-07-18 to 2018-07-26,2018-08-18 to "
+"2018-08-20"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1415
+msgid ""
+"Enter holidays in this format E.g.: 2018-07-18 to 2018-07-26, 2018-08-18 to "
+"2018-08-20"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1426
+msgid "Select day of week start"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1427
+msgid "Choose day of week start"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1456
+#: includes/admin/class-redq-rental-settings-rnb.php:1457
+msgid "Enable RFQ Without Username & Password"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1464
+msgid "Enable RFQ on Account Page"
+msgstr "Включить RFQ на странице учетной записи"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1465
+msgid "Enable Request For Quote Endpoint In My Account Page"
+msgstr ""
+"Включить запрос конечной точки котировки на странице моей учетной записи"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1478
+msgid "Google Map Configuration"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1484
+msgid "Enable Google Map For Location"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1491
+msgid "Google Map Api Key"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1493
+msgid "Enter google map API Key"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1495
+msgid "Google map api key"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1514
+msgid "Universal Labels"
+msgstr "Универсальные ярлыки"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1520
+msgid "Attributes Tab Label"
+msgstr "Ярлык вкладки атрибутов"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1522
+msgid "Enter the text label E.g. - Attributes Tab"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1525
+msgid "Attributes Tab"
+msgstr "Атрибуты"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1533
+msgid "Features Tab Label"
+msgstr "Вкладка «Свойства»"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1535
+msgid "Enter the text label E.g. - Features Tab"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1538
+msgid "Features Tab"
+msgstr "Вкладки характеристик"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1546
+msgid "Total Days Label (cart,checkout,order pages)"
+msgstr "Всего ярлыков дней (корзина, заказ, страницы заказов)"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1548
+msgid "Enter the text label E.g. - Total Days"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1550
+#: includes/admin/class-redq-rental-settings-rnb.php:1551
+#: includes/class-redq-product-cart.php:360
+#: includes/class-redq-product-cart.php:606
+#: includes/redq-rental-global-functions.php:784
+msgid "Total Days"
+msgstr "Общее количество дней"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1559
+msgid "Total Hours Label (cart,checkout,order pages)"
+msgstr "Общая метка часов (тележка, заказ, страницы заказов)"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1561
+msgid "Enter the text label E.g. - Total Hours"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1563
+#: includes/admin/class-redq-rental-settings-rnb.php:1564
+#: includes/class-redq-product-cart.php:366
+#: includes/class-redq-product-cart.php:609
+#: includes/redq-rental-global-functions.php:785
+msgid "Total Hours"
+msgstr "Итого часов"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1572
+msgid "Payment Due Label (cart,checkout,order pages)"
+msgstr "Платежная маркировка (корзина, оформление заказа, страницы заказов)"
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1574
+msgid "Enter the text label E.g. - Payment Due"
+msgstr ""
+
+#: includes/admin/class-redq-rental-settings-rnb.php:1576
+#: includes/admin/class-redq-rental-settings-rnb.php:1577
+#: includes/redq-rental-global-functions.php:786
+msgid "Payment Due"
+msgstr "Оплатить нужно сейчас"
+
+#: includes/admin/class-rnb-term-meta-image.php:128
+#: includes/admin/class-rnb-term-meta-image.php:227
+msgid "Upload/Add image"
+msgstr "Загрузить изображение"
+
+#: includes/admin/class-rnb-term-meta-image.php:129
+#: includes/admin/class-rnb-term-meta-image.php:228
+msgid "Remove image"
+msgstr "Удалить изображение"
+
+#: includes/admin/class-rnb-term-meta-image.php:153
+#: includes/admin/class-rnb-term-meta-image.php:252
+msgid "Choose an image"
+msgstr "Выбрать изображение"
+
+#: includes/admin/class-rnb-term-meta-image.php:155
+#: includes/admin/class-rnb-term-meta-image.php:254
+msgid "Use image"
+msgstr "Использовать изображение"
+
+#: includes/admin/class-rnb-term-meta-image.php:306
+msgid ""
+"Product categories for your store can be managed here. To change the order "
+"of categories on the front-end you can drag and drop to sort them. To see "
+"more categories listed click the \"screen options\" link at the top of the "
+"page."
+msgstr ""
+"Здесь Вы можете управлять категориями товаров магазина. Для изменения "
+"порядка категорий во фронтэнде просто перетаскивайте их. Чтобы увидеть "
+"остальные категории, нажмите на “Настройки экрана” вверху страницы."
+
+#: includes/admin/class-rnb-term-meta-image.php:313
+msgid ""
+"Attribute terms can be assigned to products and variations.<br/><br/"
+"><b>Note</b>: Deleting a term will remove it from all products and "
+"variations to which it has been assigned. Recreating a term will not "
+"automatically assign it back to products."
+msgstr ""
+"Атрибуты могут быть назначены товарам и вариациям.<br/><br/><b>Заметьте</b>› "
+"При удаление атрибута Вы удаляете его из всех товаров и вариаций, которым он "
+"был назначен. Повторное создание атрибута не приведёт к его появлению "
+"товарах."
+
+#: includes/admin/class-rnb-term-meta-image.php:359
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: includes/admin/class-rnb-term-meta-select.php:69
+#: includes/admin/class-rnb-term-meta-select.php:97
+msgid "none"
+msgstr "пусто"
+
+#: includes/admin/views/admin-menu-page-full-calender.php:8
+msgid "Start:"
+msgstr "Начало:"
+
+#: includes/admin/views/admin-menu-page-full-calender.php:9
+msgid "End:"
+msgstr "Конец:"
+
+#: includes/admin/views/admin-menu-page-full-calender.php:11
+msgid "View Order"
+msgstr "Просмотреть заказ"
+
+#: includes/admin/views/html-days-range-meta.php:33
+#: includes/admin/views/html-days-range-meta.php:50
+#: includes/admin/views/html-price-discount-meta.php:33
+#: includes/admin/views/html-price-discount-meta.php:50
+msgid "Days"
+msgstr "дней"
+
+#: includes/admin/views/html-days-range-meta.php:33
+#: includes/admin/views/html-hourly-range-meta.php:33
+msgid "-  Cost"
+msgstr "Расходы"
+
+#: includes/admin/views/html-days-range-meta.php:34
+#: includes/admin/views/html-hourly-range-meta.php:34
+#: includes/admin/views/html-price-discount-meta.php:34
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:30
+msgid "Remove"
+msgstr "Удалить"
+
+#: includes/admin/views/html-days-range-meta.php:49
+#: includes/admin/views/html-price-discount-meta.php:49
+msgid "Min Days"
+msgstr "Мин"
+
+#: includes/admin/views/html-days-range-meta.php:63
+#: includes/admin/views/html-price-discount-meta.php:63
+msgid "Max Days"
+msgstr "Макс дней"
+
+#: includes/admin/views/html-days-range-meta.php:64
+#: includes/admin/views/html-price-discount-meta.php:64
+msgid "days"
+msgstr "дней"
+
+#: includes/admin/views/html-days-range-meta.php:77
+msgid "Days Range Cost ( "
+msgstr "Диапазон"
+
+#: includes/admin/views/html-days-range-meta.php:89
+#: includes/admin/views/html-hourly-range-meta.php:91
+#: includes/admin/views/html-price-discount-meta.php:79
+msgid "This will be applicable during booking cost calculation"
+msgstr "Это будет применяться при расчете стоимости заказа"
+
+#: includes/admin/views/html-days-range-meta.php:91
+#: includes/admin/views/html-hourly-range-meta.php:93
+msgid "Select Type"
+msgstr "Выбрать тип"
+
+#: includes/admin/views/html-days-range-meta.php:93
+#: includes/admin/views/html-hourly-range-meta.php:95
+#: templates/rnb/global/price-flip-box.php:51
+#: templates/rnb/global/price-flip-box.php:102
+#: templates/rnb/global/price-flip-box.php:126
+msgid "Fixed"
+msgstr "Фиксировано"
+
+#: includes/admin/views/html-hourly-range-meta.php:33
+#: includes/admin/views/html-hourly-range-meta.php:50
+#: includes/admin/views/html-hourly-range-meta.php:65
+msgid "Hours"
+msgstr ""
+
+#: includes/admin/views/html-hourly-range-meta.php:49
+msgid "Min Hours"
+msgstr ""
+
+#: includes/admin/views/html-hourly-range-meta.php:64
+msgid "Max Hours"
+msgstr ""
+
+#: includes/admin/views/html-hourly-range-meta.php:79
+msgid "Hourly Range Cost ( "
+msgstr ""
+
+#: includes/admin/views/html-hourly-range-meta.php:94
+msgid "Per Hour"
+msgstr ""
+
+#: includes/admin/views/html-own-availability.php:22
+msgid "Custom Block"
+msgstr ""
+
+#: includes/admin/views/html-own-availability.php:23
+msgid "Frontend Order"
+msgstr ""
+
+#: includes/admin/views/html-own-availability.php:24
+msgid "Backend Order"
+msgstr ""
+
+#: includes/admin/views/html-own-availability.php:43
+#: includes/admin/views/html-own-time-availability.php:32
+msgid "delete"
+msgstr "удалить"
+
+#: includes/admin/views/html-own-time-availability.php:27
+msgid "Not"
+msgstr "Не"
+
+#: includes/admin/views/html-price-discount-meta.php:33
+msgid "-  Discount"
+msgstr "Скидка"
+
+#: includes/admin/views/html-price-discount-meta.php:78
+msgid "Discount Type"
+msgstr "Тип купона"
+
+#: includes/admin/views/html-price-discount-meta.php:81
+msgid "Select type"
+msgstr "Выберите тип"
+
+#: includes/admin/views/html-price-discount-meta.php:82
+msgid "Percentage"
+msgstr "Процент"
+
+#: includes/admin/views/html-price-discount-meta.php:83
+msgid "Fixed Price"
+msgstr "Фиксированная Цена"
+
+#: includes/admin/views/html-price-discount-meta.php:93
+msgid "Discount Amount ( "
+msgstr "Сумма скидки ("
+
+#: includes/admin/views/html-price-discount-meta.php:94
+msgid "Discount amount"
+msgstr "Сумма скидки"
+
+#: includes/admin/views/html-product-settings-data.php:19
+msgid "Choose Settings For Display Tab"
+msgstr "Выберите «Настройки для вкладки»"
+
+#: includes/admin/views/html-product-settings-data.php:20
+#: includes/admin/views/html-product-settings-data.php:22
+#: includes/admin/views/html-product-settings-data.php:274
+#: includes/admin/views/html-product-settings-data.php:276
+#: includes/admin/views/html-product-settings-data.php:721
+#: includes/admin/views/html-product-settings-data.php:723
+#: includes/admin/views/html-product-settings-data.php:996
+#: includes/admin/views/html-product-settings-data.php:998
+msgid "Global Settings"
+msgstr "Общие настройки"
+
+#: includes/admin/views/html-product-settings-data.php:20
+#: includes/admin/views/html-product-settings-data.php:274
+#: includes/admin/views/html-product-settings-data.php:721
+#, php-format
+msgid ""
+"If you choose local setting then these following options will work, If you "
+"choose Global Setting then<a href=\"%1$s\" target=\"_blank\"> "
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:23
+#: includes/admin/views/html-product-settings-data.php:277
+#: includes/admin/views/html-product-settings-data.php:724
+#: includes/admin/views/html-product-settings-data.php:999
+msgid "Local Settings"
+msgstr "Ð¡Ð¸ÑÑÐµÐ¼Ð½ÑÐµ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ¸"
+
+#: includes/admin/views/html-product-settings-data.php:93
+msgid "Show Dropoff Date"
+msgstr "Показать дату прерывания"
+
+#: includes/admin/views/html-product-settings-data.php:116
+msgid "Show Dropoff Time"
+msgstr "Показать время прерывания"
+
+#: includes/admin/views/html-product-settings-data.php:164
+msgid "Show pricing flip box"
+msgstr "Показать цены флип Box"
+
+#: includes/admin/views/html-product-settings-data.php:187
+msgid "Show price discount"
+msgstr "Скидка с цены"
+
+#: includes/admin/views/html-product-settings-data.php:211
+msgid "Show instance payment"
+msgstr "Показать экземпляр оплаты"
+
+#: includes/admin/views/html-product-settings-data.php:234
+msgid "Show Quote Request"
+msgstr "Показать цены"
+
+#: includes/admin/views/html-product-settings-data.php:257
+msgid "Show Book Now"
+msgstr "Показать новый заказ"
+
+#: includes/admin/views/html-product-settings-data.php:273
+msgid "Choose Settings For Labels Tab"
+msgstr "Выберите вкладку «Настройки для ярлыков»"
+
+#: includes/admin/views/html-product-settings-data.php:302
+#: includes/admin/views/html-product-settings-data.php:303
+msgid "Show Pricing Text"
+msgstr "Показать цены флип Box"
+
+#: includes/admin/views/html-product-settings-data.php:315
+#: includes/admin/views/html-product-settings-data.php:316
+msgid "Show Pricing Info Heading Text"
+msgstr "Показать цены Инфо, заголовок текста"
+
+#: includes/admin/views/html-product-settings-data.php:328
+msgid "Pickup Location Heading Title"
+msgstr "Расположение датчика заголовок заголовок"
+
+#: includes/admin/views/html-product-settings-data.php:329
+msgid "pickup location title"
+msgstr "Название местоположения раскладки"
+
+#: includes/admin/views/html-product-settings-data.php:343
+msgid "pickup location placeholder"
+msgstr "место расположения пикапа"
+
+#: includes/admin/views/html-product-settings-data.php:354
+msgid "Dropoff Location Heading Title"
+msgstr "Прерывания расположение заголовок заголовок"
+
+#: includes/admin/views/html-product-settings-data.php:355
+msgid "Dropoff location title"
+msgstr "Название местоположения прерывания"
+
+#: includes/admin/views/html-product-settings-data.php:367
+msgid "Dropoff location placeholder"
+msgstr "Заместитель места размещения"
+
+#: includes/admin/views/html-product-settings-data.php:378
+msgid "Pickup Date Heading Title"
+msgstr "Пикап Дата Заголовок заголовок"
+
+#: includes/admin/views/html-product-settings-data.php:379
+msgid "Pickup date title"
+msgstr "Пикап Дата название"
+
+#: includes/admin/views/html-product-settings-data.php:392
+#: includes/admin/views/html-product-settings-data.php:405
+msgid "Pickup date placeholder"
+msgstr "Прототип пикап даты"
+
+#: includes/admin/views/html-product-settings-data.php:417
+msgid "Dropoff Date Heading Title"
+msgstr "Прерывания Дата Заголовок заголовок"
+
+#: includes/admin/views/html-product-settings-data.php:418
+msgid "Dropoff date title"
+msgstr "Прерывания Дата название"
+
+#: includes/admin/views/html-product-settings-data.php:431
+msgid "Drop-off date placeholder"
+msgstr "Прототип даты сдачи"
+
+#: includes/admin/views/html-product-settings-data.php:444
+msgid "Drop-off time placeholder"
+msgstr "Заполнитель времени сдачи"
+
+#: includes/admin/views/html-product-settings-data.php:455
+msgid "Quantity Heading Title"
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:456
+msgid "Quantity title"
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:467
+msgid "Category Heading Title"
+msgstr "Заголовок заголовка категории"
+
+#: includes/admin/views/html-product-settings-data.php:468
+msgid "Category title"
+msgstr "Название категории"
+
+#: includes/admin/views/html-product-settings-data.php:479
+msgid "Resources Heading Title"
+msgstr "Ресурсы, заголовок заголовок"
+
+#: includes/admin/views/html-product-settings-data.php:480
+msgid "Resources title"
+msgstr "Ресурсы Название"
+
+#: includes/admin/views/html-product-settings-data.php:491
+msgid "Adults Heading Title"
+msgstr "Взрослые заголовки"
+
+#: includes/admin/views/html-product-settings-data.php:492
+msgid "Adults title"
+msgstr "Название взрослых"
+
+#: includes/admin/views/html-product-settings-data.php:504
+msgid "Adults placeholder"
+msgstr "Заполнитель для взрослых"
+
+#: includes/admin/views/html-product-settings-data.php:515
+msgid "Childs Heading Title"
+msgstr "Человек заголовок заголовок"
+
+#: includes/admin/views/html-product-settings-data.php:516
+msgid "Childs title"
+msgstr "лицо Название"
+
+#: includes/admin/views/html-product-settings-data.php:528
+msgid "Childs placeholder"
+msgstr "заполнитель"
+
+#: includes/admin/views/html-product-settings-data.php:540
+msgid "Security Deposite Heading Title"
+msgstr "Безопасности Deposite заголовок заголовок"
+
+#: includes/admin/views/html-product-settings-data.php:541
+msgid "Security deposite title"
+msgstr "Название deposite безопасности"
+
+#: includes/admin/views/html-product-settings-data.php:565
+#: includes/admin/views/html-product-settings-data.php:566
+msgid "Instance Payment Text"
+msgstr "Показать экземпляр оплаты"
+
+#: includes/admin/views/html-product-settings-data.php:592
+msgid "Book now button text"
+msgstr "Забронируйте сейчас текст кнопки"
+
+#: includes/admin/views/html-product-settings-data.php:628
+#: includes/redq-rental-global-functions.php:1133
+#: includes/redq-rental-global-functions.php:1212
+msgid "Password"
+msgstr "Пароль"
+
+#: includes/admin/views/html-product-settings-data.php:639
+msgid "RFQ first Name placeholder"
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:640
+#: includes/redq-rental-global-functions.php:1134
+#: includes/redq-rental-global-functions.php:1213
+#: templates/rnb/emails/request-quote-item-details.php:240
+msgid "First Name"
+msgstr "Имя"
+
+#: includes/admin/views/html-product-settings-data.php:651
+msgid "RFQ last Name placeholder"
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:652
+#: includes/redq-rental-global-functions.php:1135
+#: includes/redq-rental-global-functions.php:1214
+#: templates/rnb/emails/request-quote-item-details.php:245
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: includes/admin/views/html-product-settings-data.php:720
+msgid "Choose Settings For Conditions Tab"
+msgstr "Выберите вкладку «Настройки для условий»"
+
+#: includes/admin/views/html-product-settings-data.php:769
+msgid "E.g. - 2 (floating value is not allowed)"
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:799
+msgid "Maximum Booking Days"
+msgstr "Максимальное бронирование дней"
+
+#: includes/admin/views/html-product-settings-data.php:800
+msgid "E.g. - 5"
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:818
+msgid "Minimum Booking Days"
+msgstr "Минимальное количество дней бронирования"
+
+#: includes/admin/views/html-product-settings-data.php:819
+msgid "E.g. - 1"
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:891
+msgid "Time Interval"
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:892
+msgid "Time Interval in mins E.g. - 20"
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:910
+msgid "Show Product Pricing"
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:911
+msgid ""
+"If you set the value as yes then date or range of dates will be blocked "
+"after placing an order depending on no. of inventories. If you set the value "
+"as no then date will not be blocked after placing the order"
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:927
+msgid "Allowed Times"
+msgstr "Допустимые времена"
+
+#: includes/admin/views/html-product-settings-data.php:940
+msgid "Choose Booking Layout"
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:971
+msgid "Choose off days"
+msgstr "Выберите выходные дни"
+
+#: includes/admin/views/html-product-settings-data.php:971
+msgid "Weekends"
+msgstr "Выходные"
+
+#: includes/admin/views/html-product-settings-data.php:995
+msgid "Choose Settings For Validations Tab"
+msgstr "Выберите вкладку «Настройки для проверки»"
+
+#: includes/admin/views/html-product-settings-data.php:996
+#, php-format
+msgid ""
+"If you choose local setting then these following options will work, If you "
+"chooose Global Setting then<a href=\"%1$s\" target=\"_blank\"> "
+msgstr ""
+"Если вы выберете локальную настройку, тогда будут работать следующие "
+"параметры: Если вы выберете глобальную настройку, тогда"
+
+#: includes/admin/views/html-product-settings-data.php:1029
+msgid "Required Return Location"
+msgstr "Требуется место возврата"
+
+#: includes/admin/views/html-product-settings-data.php:1074
+msgid "Required Return Time"
+msgstr "Дата возврата"
+
+#: includes/admin/views/html-product-settings-data.php:1086
+msgid "Daily Basis Openning & Closing Time"
+msgstr "Ежедневной основе открытие & время закрытия"
+
+#: includes/admin/views/html-product-settings-data.php:1087
+msgid ""
+"Enter time in the following format. 10:00 or 23:30 or 24:00 etc (For 24-hour "
+"time format) and 10:00 am or 1:30 pm or 2:00 pm etc (For 12-hour time "
+"format. Space before am or pm is important)"
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:1101
+#: includes/admin/views/html-product-settings-data.php:1121
+#: includes/admin/views/html-product-settings-data.php:1141
+#: includes/admin/views/html-product-settings-data.php:1161
+#: includes/admin/views/html-product-settings-data.php:1181
+#: includes/admin/views/html-product-settings-data.php:1201
+#: includes/admin/views/html-product-settings-data.php:1221
+msgid "Min Time"
+msgstr "Минимальное время"
+
+#: includes/admin/views/html-product-settings-data.php:1107
+#: includes/admin/views/html-product-settings-data.php:1127
+#: includes/admin/views/html-product-settings-data.php:1147
+#: includes/admin/views/html-product-settings-data.php:1167
+#: includes/admin/views/html-product-settings-data.php:1187
+#: includes/admin/views/html-product-settings-data.php:1207
+#: includes/admin/views/html-product-settings-data.php:1227
+msgid "Max Time"
+msgstr "Макс. время:"
+
+#: includes/admin/views/html-rental-inventory-non-repeatable-data.php:9
+#: includes/admin/views/html-rental-inventory-non-repeatable-data.php:10
+msgid "Inventory Qty"
+msgstr "Количество инвентаризации"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:45
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:48
+msgid "Unique product model"
+msgstr "Уникальная модель"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:47
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:30
+msgid "Hourly price will be applicabe if booking or rental days min 1day"
+msgstr ""
+"Стоимость часа будет applicabe, если бронирование или Аренда дней мин 1 день"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:58
+msgid "Unique product quantity"
+msgstr ""
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:60
+msgid "Set the quantity of that unique model available for rent or book"
+msgstr ""
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:61
+msgid "Set product quantity"
+msgstr ""
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:86
+msgid "Select Categories"
+msgstr "Выбрать Категории"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:96
+msgid "Set Categories"
+msgstr "Установка категорий"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:110
+msgid "Select Pickup Locations"
+msgstr "Пункты самовывоза"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:121
+msgid "Set pickup locations"
+msgstr "Пункты самовывоза"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:121
+#: includes/redq-rental-global-functions.php:1036
+#: includes/redq-rental-global-functions.php:1037
+msgid "Pickup Locations"
+msgstr "Самовывоз Местоположение"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:135
+msgid "Select Drop-off Locations"
+msgstr "Выберите места выпада"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:146
+msgid "Set drop-off locations"
+msgstr "Установка высадки места"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:146
+msgid "Dropoff Locations"
+msgstr "Спад места"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:161
+msgid "Select Resources"
+msgstr "Выберите ресурсы"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:172
+msgid "Set payable  resources"
+msgstr "Набор ресурсов кредиторской задолженности"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:187
+msgid "Select Person"
+msgstr "Выберите участника"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:198
+msgid "Set Person"
+msgstr "КОЛ-ВО ЧЕЛОВЕК"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:213
+msgid "Select Security Deposite"
+msgstr "Выберите «Депозит безопасности»"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:224
+msgid "Set security deposites"
+msgstr "Установка безопасности deposites"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:238
+msgid "Select Attributes"
+msgstr "Выберите атрибуты"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:249
+msgid "Set attributes"
+msgstr "Аттрибуты"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:263
+msgid "Select Features"
+msgstr "Выберите функцию"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:274
+msgid "Set features"
+msgstr "Особенности"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:176
+msgid "Inventory management"
+msgstr "Инвентаризация"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:183
+msgid "Select Inventories"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:190
+msgid "Set product inventories"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:190
+msgid "Inventories"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:211
+msgid "Set price discount depending on day length"
+msgstr "Установите скидку цены в зависимости от длины дня"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:222
+msgid "Add Price Discount"
+msgstr "Цена со скидкой"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:249
+msgid "Settings of this product"
+msgstr "Параметры этого продукта"
+
+#: includes/class-redq-enqueue-files.php:113
+#: includes/class-redq-enqueue-files.php:493
+msgid "Max booking day is "
+msgstr ""
+
+#: includes/class-redq-enqueue-files.php:114
+#: includes/class-redq-enqueue-files.php:494
+msgid "Max booking days are "
+msgstr "Макс дней бронирования превышает"
+
+#: includes/class-redq-enqueue-files.php:115
+#: includes/class-redq-enqueue-files.php:495
+msgid "Ooops"
+msgstr "Ууупс..."
+
+#: includes/class-redq-enqueue-files.php:116
+#: includes/class-redq-enqueue-files.php:496
+msgid "This date range is unavailable"
+msgstr "Этот диапазон дат недоступен"
+
+#: includes/class-redq-enqueue-files.php:117
+#: includes/class-redq-enqueue-files.php:497
+msgid "Min rental day is "
+msgstr ""
+
+#: includes/class-redq-enqueue-files.php:118
+#: includes/class-redq-enqueue-files.php:498
+msgid "Min rental days are "
+msgstr ""
+
+#: includes/class-redq-enqueue-files.php:119
+#: includes/class-redq-enqueue-files.php:499
+msgid " exceed "
+msgstr ""
+
+#: includes/class-redq-enqueue-files.php:120
+#: includes/class-redq-enqueue-files.php:500
+msgid "Max rental days "
+msgstr "Число дней проката"
+
+#: includes/class-redq-enqueue-files.php:121
+#: includes/class-redq-enqueue-files.php:501
+msgid "User name field is required"
+msgstr ""
+
+#: includes/class-redq-enqueue-files.php:122
+#: includes/class-redq-enqueue-files.php:502
+msgid "Password field is required"
+msgstr ""
+
+#: includes/class-redq-enqueue-files.php:123
+#: includes/class-redq-enqueue-files.php:503
+msgid "First name field is required"
+msgstr ""
+
+#: includes/class-redq-enqueue-files.php:124
+#: includes/class-redq-enqueue-files.php:504
+msgid "Last name field is required"
+msgstr ""
+
+#: includes/class-redq-enqueue-files.php:125
+#: includes/class-redq-enqueue-files.php:505
+msgid "Quote email is required"
+msgstr ""
+
+#: includes/class-redq-enqueue-files.php:126
+#: includes/class-redq-enqueue-files.php:506
+msgid "Phone is required"
+msgstr ""
+
+#: includes/class-redq-enqueue-files.php:127
+#: includes/class-redq-enqueue-files.php:507
+msgid "Message is required"
+msgstr ""
+
+#: includes/class-redq-enqueue-files.php:128
+#: includes/class-redq-enqueue-files.php:508
+msgid "No of days must be greater than 1 day"
+msgstr ""
+
+#: includes/class-redq-enqueue-files.php:129
+#: includes/class-redq-enqueue-files.php:509
+msgid "Total hours must be greater than 0 hours"
+msgstr ""
+
+#: includes/class-redq-enqueue-files.php:130
+#: includes/class-redq-enqueue-files.php:510
+msgid "Pickup location is required"
+msgstr ""
+
+#: includes/class-redq-enqueue-files.php:131
+#: includes/class-redq-enqueue-files.php:511
+msgid "Drop-off location is required"
+msgstr ""
+
+#: includes/class-redq-enqueue-files.php:132
+#: includes/class-redq-enqueue-files.php:512
+msgid "Pickup time is required"
+msgstr ""
+
+#: includes/class-redq-enqueue-files.php:133
+#: includes/class-redq-enqueue-files.php:513
+msgid "Drop-off time is required"
+msgstr ""
+
+#: includes/class-redq-enqueue-files.php:134
+#: includes/class-redq-enqueue-files.php:514
+msgid "Adults is required"
+msgstr ""
+
+#: includes/class-redq-enqueue-files.php:135
+#: includes/class-redq-enqueue-files.php:515
+msgid "Child is required"
+msgstr ""
+
+#: includes/class-redq-enqueue-files.php:136
+#: includes/class-redq-enqueue-files.php:516
+msgid "quantities are not avaialable"
+msgstr ""
+
+#: includes/class-redq-enqueue-files.php:137
+#: includes/class-redq-enqueue-files.php:517
+msgid "quantity is not avaialable"
+msgstr ""
+
+#: includes/class-redq-enqueue-files.php:183
+#: includes/class-redq-enqueue-files.php:242
+#: includes/class-redq-enqueue-files.php:258
+#: templates/rnb/booking-content/booking-modal.php:150
+#: templates/rnb/booking-content/booking-modal.php:193
+#: templates/rnb/booking-content/booking-modal.php:210
+#: templates/rnb/booking-content/booking-modal.php:250
+#: templates/rnb/booking-content/payable-deposits.php:23
+#: templates/rnb/booking-content/payable-resources.php:25
+#: templates/rnb/booking-content/rnb-categories.php:23
+msgid " - Per Day"
+msgstr "в день"
+
+#: includes/class-redq-enqueue-files.php:184
+#: includes/class-redq-enqueue-files.php:243
+#: includes/class-redq-enqueue-files.php:259
+#: templates/rnb/booking-content/booking-modal.php:151
+#: templates/rnb/booking-content/booking-modal.php:194
+#: templates/rnb/booking-content/booking-modal.php:211
+#: templates/rnb/booking-content/booking-modal.php:251
+#: templates/rnb/booking-content/payable-deposits.php:24
+#: templates/rnb/booking-content/payable-resources.php:26
+#: templates/rnb/booking-content/rnb-categories.php:24
+msgid " - Per Hour"
+msgstr "-В час"
+
+#: includes/class-redq-enqueue-files.php:186
+#: includes/class-redq-enqueue-files.php:245
+#: includes/class-redq-enqueue-files.php:261
+#: templates/rnb/booking-content/booking-modal.php:153
+#: templates/rnb/booking-content/booking-modal.php:196
+#: templates/rnb/booking-content/booking-modal.php:213
+#: templates/rnb/booking-content/booking-modal.php:253
+#: templates/rnb/booking-content/payable-deposits.php:26
+#: templates/rnb/booking-content/payable-resources.php:28
+#: templates/rnb/booking-content/rnb-categories.php:26
+msgid " - One Time"
+msgstr "Одноразовый"
+
+#: includes/class-redq-enqueue-files.php:207
+#: includes/class-redq-enqueue-files.php:223
+#: templates/rnb/booking-content/payable-persons.php:24
+#: templates/rnb/booking-content/payable-persons.php:27
+#: templates/rnb/booking-content/payable-persons.php:31
+#: templates/rnb/booking-content/payable-persons.php:51
+#: templates/rnb/booking-content/payable-persons.php:54
+#: templates/rnb/booking-content/payable-persons.php:58
+msgid " :  Cost - "
+msgstr "Стоимость:"
+
+#: includes/class-redq-enqueue-files.php:209
+#: includes/class-redq-enqueue-files.php:225
+#: templates/rnb/booking-content/payable-persons.php:31
+#: templates/rnb/booking-content/payable-persons.php:58
+msgid " - One time"
+msgstr "Одноразовый"
+
+#: includes/class-redq-enqueue-files.php:284
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: includes/class-redq-enqueue-files.php:285
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: includes/class-redq-enqueue-files.php:441
+msgid "Pickup Point"
+msgstr ""
+
+#: includes/class-redq-enqueue-files.php:442
+msgid "DropOff Point"
+msgstr ""
+
+#: includes/class-redq-product-cart.php:208
+#: includes/class-redq-product-cart.php:504
+msgid "Quote Request"
+msgstr "Новый запрос предложения"
+
+#: includes/class-redq-product-cart.php:224
+#: includes/class-redq-product-cart.php:240
+#: includes/class-redq-product-cart.php:512
+#: includes/class-redq-product-cart.php:520
+msgid " Cost"
+msgstr "Стоимость"
+
+#: includes/class-redq-product-cart.php:248
+#: includes/class-redq-product-cart.php:524
+msgid "Location Cost"
+msgstr ""
+
+#: includes/class-redq-product-cart.php:324
+#: includes/class-redq-product-cart.php:338
+#: includes/class-redq-product-cart.php:578
+#: includes/class-redq-product-cart.php:594
+msgid "at"
+msgstr "от"
+
+#: includes/class-redq-product-cart.php:374
+#: includes/class-redq-product-cart.php:613
+msgid "Due Payment"
+msgstr "Оплата"
+
+#: includes/class-redq-product-cart.php:461
+#, php-format
+msgid "Quantity %s is not available"
+msgstr ""
+
+#: includes/class-redq-product-redq_rental.php:598
+msgid "january"
+msgstr "января"
+
+#: includes/class-redq-product-redq_rental.php:601
+msgid "february"
+msgstr "февраля"
+
+#: includes/class-redq-product-redq_rental.php:604
+msgid "march"
+msgstr "марта"
+
+#: includes/class-redq-product-redq_rental.php:607
+msgid "april"
+msgstr "апреля"
+
+#: includes/class-redq-product-redq_rental.php:610
+msgid "may"
+msgstr "Майя"
+
+#: includes/class-redq-product-redq_rental.php:613
+msgid "june"
+msgstr "июня"
+
+#: includes/class-redq-product-redq_rental.php:616
+msgid "july"
+msgstr "июля"
+
+#: includes/class-redq-product-redq_rental.php:619
+msgid "august"
+msgstr "августа"
+
+#: includes/class-redq-product-redq_rental.php:622
+msgid "september"
+msgstr "сентября"
+
+#: includes/class-redq-product-redq_rental.php:625
+msgid "october"
+msgstr "октября"
+
+#: includes/class-redq-product-redq_rental.php:628
+msgid "november"
+msgstr "ноября"
+
+#: includes/class-redq-product-redq_rental.php:631
+msgid "december"
+msgstr "декабря"
+
+#: includes/class-redq-request-for-a-quote.php:245
+msgid "Dashboard"
+msgstr "Панель управления"
+
+#: includes/class-redq-request-for-a-quote.php:246
+msgid "Orders"
+msgstr "Заказы"
+
+#: includes/class-redq-request-for-a-quote.php:247
+msgid "Downloads"
+msgstr "Загрузки"
+
+#: includes/class-redq-request-for-a-quote.php:248
+msgid "Addresses"
+msgstr "Адреса"
+
+#: includes/class-redq-request-for-a-quote.php:249
+msgid "Payment Methods"
+msgstr "Способы оплаты"
+
+#: includes/class-redq-request-for-a-quote.php:250
+msgid "Account Details"
+msgstr "Детали учетной записи"
+
+#: includes/class-redq-request-for-a-quote.php:251
+msgid "Request Quote"
+msgstr "Запросить цену"
+
+#: includes/class-redq-request-for-a-quote.php:252
+msgid "Logout"
+msgstr "Логин"
+
+#: includes/class-redq-request-for-a-quote.php:472
+msgid "Your quote request has been placed"
+msgstr "Ваш запрос был сделан"
+
+#: includes/class-redq-request-for-a-quote.php:484
+msgid "You have a new quote request"
+msgstr "Новый запрос предложения"
+
+#: includes/class-redq-request-for-a-quote.php:491
+msgid "Thanks! Your email has been sent."
+msgstr "Ваше сообщение было отправлено!"
+
+#: includes/integrations/class-full-calendar-integration.php:87
+msgid "Order ID:"
+msgstr ""
+
+#: includes/integrations/class-full-calendar-integration.php:116
+msgid "Order Total"
+msgstr "Общая сумма"
+
+#: includes/integrations/class-google-calendar-integration.php:20
+msgid "Connect RnB With Google Calendar To Trace Orders"
+msgstr "Подключить RnB с помощью Календаря Google для отслеживания заказов"
+
+#: includes/integrations/class-google-calendar-integration.php:21
+msgid ""
+"You need to do following things to get your required caledar credentails "
+msgstr ""
+"Вам нужно сделать следующее, чтобы получить требуемые ключи от каледара"
+
+#: includes/integrations/class-google-calendar-integration.php:70
+msgid "Google Client ID"
+msgstr "Google ID Клиента"
+
+#: includes/integrations/class-google-calendar-integration.php:72
+msgid "Enter your Google Client ID."
+msgstr "Введите ваш Google Client ID."
+
+#: includes/integrations/class-google-calendar-integration.php:76
+msgid "Google Client Secret"
+msgstr "Google Client Secret"
+
+#: includes/integrations/class-google-calendar-integration.php:78
+msgid "Enter your Google Client Secret."
+msgstr "Введите ваш Google Client Secret"
+
+#: includes/integrations/class-google-calendar-integration.php:82
+msgid "Google Calendar ID"
+msgstr "ID от Google календарь"
+
+#: includes/integrations/class-google-calendar-integration.php:84
+msgid "Enter your Calendar ID."
+msgstr "Введите ID вашего календаря"
+
+#: includes/integrations/class-google-calendar-integration.php:88
+msgid "Authentication"
+msgstr "Аутентификация"
+
+#: includes/integrations/class-google-calendar-integration.php:147
+msgid "Connect with Google"
+msgstr "Связаться с Google"
+
+#: includes/integrations/class-google-calendar-integration.php:149
+msgid "Successfully authenticated. Now Enjoy :) "
+msgstr "Успешно завершена. Теперь наслаждайтесь :)"
+
+#: includes/integrations/class-google-calendar-integration.php:150
+msgid "Disconnect"
+msgstr "Отсоеденить"
+
+#: includes/integrations/class-google-calendar-integration.php:152
+msgid ""
+"Unable to authenticate, you must enter with your <strong>Client ID</strong>, "
+"<strong>Client Secret</strong> and <strong>Calendar ID</strong>."
+msgstr ""
+"Не удалось пройти авторизацию, необходимо ввести с <strong>Client ID</"
+"strong>, <strong>Client Secret</strong> и <strong>Calendar ID</strong>."
+
+#: includes/integrations/class-google-calendar-integration.php:171
+#, php-format
+msgid ""
+"First you need to create a project in %1$s. After creating project, you must "
+"enable the <strong>Google Calendar API</strong> in <strong>Your Project > "
+"Library</strong>, Then go to <strong>Your Project > Credentials > Create "
+"Credentials</strong> & create an OAuth Client ID for a <strong>Web "
+"application</strong> and set the <strong>Authorized redirect URIs</strong> "
+"as <code>%2$s</code>."
+msgstr ""
+"Сначала вам нужно создать проект в%1$s. После создания проекта вы должны "
+"включить <strong>API календаря Google</strong> в <strong>своем проекте> "
+"Библиотека</strong> , а затем перейдите в <strong>свой проект> Учетные "
+"данные> Создать учетные данные</strong> и создайте идентификатор клиента "
+"OAuth для <strong>веб-приложения</strong> и установите "
+"<strong>Уполномоченные URI перенаправления</strong> как <code>%2$s</code> ."
+
+#: includes/integrations/class-google-calendar-integration.php:171
+msgid "Google Developers Console"
+msgstr "Google консоль разработчиков"
+
+#: includes/integrations/class-google-calendar-integration.php:173
+msgid "Online Docs"
+msgstr "Онлайн-документы"
+
+#: includes/integrations/class-google-calendar-integration.php:173
+#, php-format
+msgid "Please visit our online docs <a href=\"%1$s\" target=\"_blank\">"
+msgstr "Пожалуйста, посетите наши онлайн-документы"
+
+#: includes/integrations/class-google-calendar-integration.php:361
+msgid "Permission denied!"
+msgstr "Доступ запрещён!"
+
+#: includes/integrations/class-google-calendar-integration.php:399
+msgid "Invalid request!"
+msgstr "Неверный запрос!"
+
+#: includes/integrations/class-google-calendar-integration.php:415
+#: includes/integrations/class-google-calendar-integration.php:417
+#: includes/integrations/class-google-calendar-integration.php:423
+#: includes/integrations/class-google-calendar-integration.php:425
+msgid "Google Calendar"
+msgstr "Клендарь Google"
+
+#: includes/integrations/class-google-calendar-integration.php:415
+msgid "Successful Authenticate"
+msgstr "Успешная аутентификация"
+
+#: includes/integrations/class-google-calendar-integration.php:417
+msgid "Failed to Authenticate to your account, please try again"
+msgstr ""
+"Не удалось выполнить проверку подлинности в своей учетной записи, повторите "
+"попытку."
+
+#: includes/integrations/class-google-calendar-integration.php:423
+msgid "Account disconnected successfully!"
+msgstr "Аккаунт успешно отключен!"
+
+#: includes/integrations/class-google-calendar-integration.php:425
+msgid "Failed to disconnect to your account, please try again"
+msgstr "Не удалось отключиться от вашей учетной записи, повторите попытку."
+
+#: includes/integrations/class-google-calendar-integration.php:517
+#: includes/integrations/class-google-calendar-integration.php:720
+msgid "Order Status"
+msgstr "Статус заказа"
+
+#: includes/redq-rental-global-functions.php:95
+msgid "/ Per Day"
+msgstr ""
+
+#: includes/redq-rental-global-functions.php:126
+#: includes/redq-rental-global-functions.php:136
+msgid "From "
+msgstr ""
+
+#: includes/redq-rental-global-functions.php:131
+msgid "/ Per Hour"
+msgstr ""
+
+#: includes/redq-rental-global-functions.php:1045
+#: includes/redq-rental-global-functions.php:1046
+msgid "Return Locations"
+msgstr "Вернуться"
+
+#: includes/redq-rental-global-functions.php:1052
+msgid "Pickup Date&Time"
+msgstr "Дата и время получения"
+
+#: includes/redq-rental-global-functions.php:1054
+#: includes/redq-rental-global-functions.php:1063
+#: includes/redq-rental-global-functions.php:1168
+#: includes/redq-rental-global-functions.php:1173
+msgid "Time"
+msgstr "Время"
+
+#: includes/redq-rental-global-functions.php:1061
+msgid "Return Date&Time"
+msgstr "Дата и время возврата"
+
+#: includes/redq-rental-global-functions.php:1108
+msgid "Discounts"
+msgstr "Акции и скидки"
+
+#: includes/redq-rental-global-functions.php:1109
+#: includes/redq-rental-global-functions.php:1198
+msgid "Instance Pay"
+msgstr "Экземпляр оплаты при бронировании:"
+
+#: includes/redq-rental-global-functions.php:1171
+msgid "Return Date & Time"
+msgstr "Дата и время возврата"
+
+#: includes/redq-rental-global-functions.php:1185
+msgid "Resource"
+msgstr ""
+
+#: includes/redq-rental-global-functions.php:1188
+msgid "Category"
+msgstr ""
+
+#: includes/redq-rental-global-functions.php:1197
+msgid "Discount"
+msgstr ""
+
+#: includes/redq-rental-global-functions.php:1387
+msgid "January"
+msgstr "Январь"
+
+#: includes/redq-rental-global-functions.php:1388
+msgid "February"
+msgstr "февраля"
+
+#: includes/redq-rental-global-functions.php:1389
+msgid "March"
+msgstr "Март"
+
+#: includes/redq-rental-global-functions.php:1390
+msgid "April"
+msgstr "Апрель"
+
+#: includes/redq-rental-global-functions.php:1391
+msgid "May"
+msgstr "Май"
+
+#: includes/redq-rental-global-functions.php:1392
+msgid "June"
+msgstr "Июнь"
+
+#: includes/redq-rental-global-functions.php:1393
+msgid "July"
+msgstr "Июль"
+
+#: includes/redq-rental-global-functions.php:1394
+msgid "August"
+msgstr "августа"
+
+#: includes/redq-rental-global-functions.php:1395
+msgid "September"
+msgstr "Сентябрь"
+
+#: includes/redq-rental-global-functions.php:1396
+msgid "October"
+msgstr "Октябрь"
+
+#: includes/redq-rental-global-functions.php:1397
+msgid "November"
+msgstr "ноября"
+
+#: includes/redq-rental-global-functions.php:1398
+msgid "December"
+msgstr "Декабрь"
+
+#: redq-rental-and-bookings.php:117
+msgid "Docs"
+msgstr "Документация"
+
+#: redq-rental-and-bookings.php:118
+msgid "Support"
+msgstr "Поддержка"
+
+#: redq-rental-and-bookings.php:119
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: redq-rental-and-bookings.php:341
+#, php-format
+msgid "Pending <span class=\"count\">(%s)</span>"
+msgid_plural "Pending <span class=\"count\">(%s)</span>"
+msgstr[0] "На рассмотрении (<span class=“pending-count”>%s</span>)"
+msgstr[1] ""
+msgstr[2] ""
+
+#: redq-rental-and-bookings.php:349
+#, php-format
+msgid "Processing <span class=\"count\">(%s)</span>"
+msgid_plural "Processing <span class=\"count\">(%s)</span>"
+msgstr[0] "Обработка <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+msgstr[2] ""
+
+#: redq-rental-and-bookings.php:357
+#, php-format
+msgid "On Hold <span class=\"count\">(%s)</span>"
+msgid_plural "On Hold <span class=\"count\">(%s)</span>"
+msgstr[0] "Отложено <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+msgstr[2] ""
+
+#: redq-rental-and-bookings.php:365
+#, php-format
+msgid "Accepted <span class=\"count\">(%s)</span>"
+msgid_plural "Accepted <span class=\"count\">(%s)</span>"
+msgstr[0] "Принятые <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+msgstr[2] ""
+
+#: redq-rental-and-bookings.php:373
+#, php-format
+msgid "Completed <span class=\"count\">(%s)</span>"
+msgid_plural "Completed <span class=\"count\">(%s)</span>"
+msgstr[0] "Завершено <span class=“count”>(%s)</span>"
+msgstr[1] ""
+msgstr[2] ""
+
+#: redq-rental-and-bookings.php:381
+#, php-format
+msgid "Cancelled <span class=\"count\">(%s)</span>"
+msgid_plural "Cancelled <span class=\"count\">(%s)</span>"
+msgstr[0] "Отменено <span class=“count”>(%s)</span>"
+msgstr[1] ""
+msgstr[2] ""
+
+#: redq-rental-and-bookings.php:429
+msgid ""
+"Please Install WooCommerce First before activating this Plugin. You can "
+"download WooCommerce from <a href=\"http://wordpress.org/plugins/woocommerce/"
+"\">here</a>."
+msgstr ""
+"Пожалуйста, установите WooCommerce, прежде чем активировать этот плагин. Вы "
+"можете скачать WooCommerce от <a href=\"http://wordpress.org/plugins/"
+"woocommerce/\">here</a>."
+
+#: templates/myaccount/request-quote.php:10
+msgid "Order"
+msgstr "Заказать"
+
+#: templates/myaccount/request-quote.php:13
+#: templates/myaccount/view-quote.php:51
+msgid "Total"
+msgstr "Всего"
+
+#: templates/myaccount/request-quote.php:47
+msgctxt "hash before order number"
+msgid "#"
+msgstr "#"
+
+#: templates/myaccount/request-quote.php:60
+msgid "for 1 items"
+msgstr "для элементов 1"
+
+#: templates/myaccount/view-quote.php:26
+msgid "Invalid quote."
+msgstr "Недопустимый цитата."
+
+#: templates/myaccount/view-quote.php:26
+msgid "My Account"
+msgstr "Мой аккаунт"
+
+#: templates/myaccount/view-quote.php:37
+#, php-format
+msgid "Quote #%1$s request was placed on %2$s and is currently %3$s."
+msgstr ""
+"Цитата #%1$s запрос был сделан на %2$s и в настоящее время является %3$s."
+
+#: templates/myaccount/view-quote.php:45
+msgid "Quote Details"
+msgstr "Детали предложения"
+
+#: templates/myaccount/view-quote.php:275
+msgid ""
+"This order is already in your cart. You can checkout the cart from here."
+msgstr "Этот порядок уже в вашей корзине. Вы можете оформить корзину отсюда."
+
+#: templates/myaccount/view-quote.php:276
+msgid "View Cart"
+msgstr "Открыть корзину"
+
+#: templates/myaccount/view-quote.php:277
+msgid "Proceed to Checkout"
+msgstr "Перейти к оформлению"
+
+#: templates/myaccount/view-quote.php:293
+msgid "Messages"
+msgstr "Сообщения"
+
+#: templates/myaccount/view-quote.php:297
+msgid "Your message"
+msgstr "Ihre Nachricht"
+
+#: templates/myaccount/view-quote.php:299
+msgid "Reply Message"
+msgstr "ОТВЕТ НА СООБЩЕНИЕ"
+
+#: templates/myaccount/view-quote.php:325
+msgid "Sorry! Quote does not found."
+msgstr "Извините! Цитата не найдена."
+
+#: templates/rnb/booking-content/booking-modal.php:15
+msgid ""
+"You don't have any invertory with this product. This product in not bookable."
+msgstr ""
+
+#: templates/rnb/booking-content/booking-modal.php:52
+msgid "Location"
+msgstr ""
+
+#: templates/rnb/booking-content/booking-modal.php:79
+msgid "Total Distance:"
+msgstr ""
+
+#: templates/rnb/booking-content/booking-modal.php:87
+msgid "Duration"
+msgstr ""
+
+#: templates/rnb/booking-content/booking-modal.php:98
+msgid "Duration selection is not correct!"
+msgstr ""
+
+#: templates/rnb/booking-content/booking-modal.php:266
+msgid "Summary"
+msgstr ""
+
+#: templates/rnb/booking-content/payable-persons.php:24
+#: templates/rnb/booking-content/payable-persons.php:51
+msgid " - Per day"
+msgstr "в сутки"
+
+#: templates/rnb/booking-content/payable-persons.php:27
+#: templates/rnb/booking-content/payable-persons.php:54
+msgid " - Per hour"
+msgstr "-В час"
+
+#: templates/rnb/booking-content/select-inventory.php:21
+msgid ""
+"You don't have any inventory with this product. This product in not bookable."
+msgstr ""
+
+#: templates/rnb/emails/customer-place-quote-request.php:28
+#, php-format
+msgid ""
+"Hello %1$s, Your quote request for <a href=\"%2$s\">%3$s</a> has beed "
+"placed. Your request is currently on <strong>Pending</strong>."
+msgstr ""
+"Здравствуйте %1$s, ваш запрос на <a href=\"%2$s\">%3$s</a> имеет beed "
+"помещен. Ваш запрос в настоящее время находится на <strong>рассмотрении</"
+"strong>."
+
+#: templates/rnb/emails/customer-place-quote-request.php:38
+#: templates/rnb/emails/customer-reply-message.php:32
+#: templates/rnb/emails/owner-notify-place-quote-request.php:38
+#: templates/rnb/emails/owner-reply-message.php:32
+#: templates/rnb/emails/quote-status-update-notify-customer.php:36
+msgid "View Quote"
+msgstr "Смотреть список предложений"
+
+#: templates/rnb/emails/customer-reply-message.php:25
+msgid "Hello, a message has just been added from your customer:"
+msgstr "Здравствуйте сообщение только что был добавлен от клиента:"
+
+#: templates/rnb/emails/owner-notify-place-quote-request.php:28
+#, php-format
+msgid ""
+"Hello, Your have a new quote request for <a href=\"%1$s\">%2$s</a>. The "
+"request is currently on <strong>Pending</strong>."
+msgstr ""
+"Здравствуйте ваш новый запрос цитатой для <a href=“%1$s”>%2$s</a>. Запрос в "
+"настоящее время находится на <strong>рассмотрении</strong>."
+
+#: templates/rnb/emails/owner-reply-message.php:25
+msgid "Hello, a message has just been added from the product owner:"
+msgstr "Здравствуйте, сообщение только что был добавлен от владельца продукта:"
+
+#: templates/rnb/emails/quote-accepted-notify-customer.php:25
+msgid ""
+"Hello, your quote request has been accepted.You can now book as the listed "
+"price."
+msgstr ""
+"Здравствуйте ваш запрос принят. Теперь вы можете забронировать как указана "
+"цена."
+
+#: templates/rnb/emails/quote-accepted-notify-customer.php:27
+msgid ""
+"You can now click the book now button in the view quote page. Then checkout "
+"the product."
+msgstr ""
+"Вы можете теперь нажмите кнопку сейчас книгу в представлении страницы "
+"котировок. Затем оформить заказ продукта."
+
+#: templates/rnb/emails/quote-accepted-notify-customer.php:32
+msgid "View Quote & Book Now"
+msgstr "Просмотр цитатой & книгу сейчас"
+
+#: templates/rnb/emails/quote-status-update-notify-customer.php:27
+#, php-format
+msgid ""
+"Hello %1$s, the status of your quote request has been updated. Current "
+"status of your quote request is <strong>%2$s</strong>."
+msgstr ""
+"Здравствуйте %1$s, состояние запроса цитатой обновлен. Текущее состояние "
+"запроса цитатой является <strong>%2$s</strong>."
+
+#: templates/rnb/emails/request-quote-item-details.php:19
+#, php-format
+msgid "Quote #%s Details"
+msgstr "Цитата # %s детали"
+
+#: templates/rnb/emails/request-quote-item-details.php:215
+msgid "Customer Details"
+msgstr "Другие детали заказа"
+
+#: templates/rnb/emails/request-quote-item-details.php:255
+msgid "Phone "
+msgstr "Телефон"
+
+#: templates/rnb/global/price-flip-box.php:42
+msgid " / days :"
+msgstr ""
+
+#: templates/rnb/global/price-flip-box.php:51
+msgid "/ Day"
+msgstr "/ День"
+
+#: templates/rnb/global/price-flip-box.php:53
+#: templates/rnb/global/price-flip-box.php:131
+msgid "days :"
+msgstr "Дни:"
+
+#: templates/rnb/global/price-flip-box.php:99
+msgid "Hourly pricing plan"
+msgstr ""
+
+#: templates/rnb/global/price-flip-box.php:102
+msgid "/ Hour"
+msgstr ""
+
+#: templates/rnb/global/price-flip-box.php:104
+msgid "Hours :"
+msgstr ""
+
+#: templates/rnb/global/price-flip-box.php:119
+msgid "Discount Rates"
+msgstr "Ставка рефинансирования"
+
+#: templates/rnb/global/price-flip-box.php:123
+msgid "%"
+msgstr "%"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Rental & Bookings System"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://codecanyon.net/item/rnb-woocommerce-rental-booking-system/14835145?"
+"ref=redqteam"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"RnB – WooCommerce Rental & Booking is a user friendly woocommerce booking "
+"plugin built as woocommerce extension. This powerful woocommerce plugin "
+"allows you to sell your time or date based bookings. It creates a new "
+"product type to your WooCommerce site. Perfect for those wanting to offer "
+"rental , booking , or real estate agencies or services."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "RedQ Team"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://redqteam.com"
+msgstr ""
+
+#~ msgid "Block Rental Dates"
+#~ msgstr "Блок Аренда Даты"
+
+#~ msgid "Price Calculation"
+#~ msgstr "Расчет лицензии"
+
+#~ msgid "Don't Create New Inventory From Here"
+#~ msgstr "Не создавайте новую инвентаризацию"
+
+#~ msgid "Range type"
+#~ msgstr "Тип диапазона"
+
+#~ msgid "From"
+#~ msgstr "От"
+
+#~ msgid "To"
+#~ msgstr "До"
+
+#~ msgid "Bookable"
+#~ msgstr "Бронируемый"
+
+#~ msgid ""
+#~ "Please select the date range for which you want the product to be "
+#~ "disabled."
+#~ msgstr ""
+#~ "Пожалуйста, выберите диапазон дат, для которых вы хотите отключить "
+#~ "продукт."
+
+#~ msgid "Add Dates"
+#~ msgstr "Добавить"
+
+#~ msgid "This text will show as pricing title in fornt-end"
+#~ msgstr "Этот текст будет отображаться как заголовок цены в fornt-end"
+
+#~ msgid "This text will show as Pickup location title in fornt-end"
+#~ msgstr ""
+#~ "Этот текст будет отображаться как название местоположения раскладки в "
+#~ "fornt конец"
+
+#~ msgid "This text will show as Pickup location placeholder in fornt-end"
+#~ msgstr ""
+#~ "Этот текст будет отображаться как место размещения места размещения в "
+#~ "fornt-end"
+
+#~ msgid "This text will show as Dropoff location title in fornt-end"
+#~ msgstr ""
+#~ "Этот текст будет отображаться как заголовок местоположения Dropoff в "
+#~ "fornt-end"
+
+#~ msgid "This text will show as Dropoff location placeholder in fornt-end"
+#~ msgstr ""
+#~ "Этот текст будет отображаться как заполнитель местоположения Dropoff в "
+#~ "fornt-end"
+
+#~ msgid "This text will show as Pickup Date title in fornt-end"
+#~ msgstr ""
+#~ "Этот текст будет отображаться как название даты отправки в fornt-end"
+
+#~ msgid "This text will show as Pickup Date Placeholder in fornt-end"
+#~ msgstr ""
+#~ "Этот текст будет отображаться как Place Date Place Place for for-end"
+
+#~ msgid "This text will show as Pickup Time Placeholder in fornt-end"
+#~ msgstr ""
+#~ "Этот текст будет отображаться как Place Place Place Place for for-end"
+
+#~ msgid "This text will show as Dropoff Date title in fornt-end"
+#~ msgstr "Этот текст будет отображаться в заголовке Dropoff Date в fornt-end"
+
+#~ msgid "This text will show as Drop-off Date Placeholder in fornt-end"
+#~ msgstr ""
+#~ "Этот текст будет отображаться как «Задержка даты выпадающего списка» в "
+#~ "fornt-end"
+
+#~ msgid "This text will show as Drop-off Time Placeholder in fornt-end"
+#~ msgstr ""
+#~ "Этот текст будет отображаться как «Задержка времени выключения» в fornt-"
+#~ "end"
+
+#~ msgid "This text will show as resources title in fornt-end"
+#~ msgstr "Этот текст будет отображаться как названия ресурсов в fornt конец"
+
+#~ msgid "This text will show as Categories title in fornt-end"
+#~ msgstr "Этот текст будет отображаться как заголовок категории в fornt-end"
+
+#~ msgid "This text will show as Deposit title in fornt-end"
+#~ msgstr "Этот текст будет отображаться как заголовок депозита в fornt-end"
+
+#~ msgid "This text will show as Adults title in fornt-end"
+#~ msgstr "Этот текст будет отображаться как название для взрослых в fornt-end"
+
+#~ msgid "This text will show as Adults Placeholder in fornt-end"
+#~ msgstr "Этот текст будет отображаться как Adults Placeholder в fornt-end"
+
+#~ msgid "This text will show as Childs title in fornt-end"
+#~ msgstr "Этот текст будет отображаться как заголовок Childs в fornt-end"
+
+#~ msgid "This text will show as Childs Placeholder in fornt-end"
+#~ msgstr ""
+#~ "Этот текст будет отображаться как «Заполнитель для детей» в fornt-end"
+
+#~ msgid "This text will show as discount text in fornt-end"
+#~ msgstr "Этот текст будет отображаться как текст скидки в fornt-end"
+
+#~ msgid "This text will show as Instance Pay text in fornt-end"
+#~ msgstr ""
+#~ "Этот текст будет отображаться в виде экземпляра Pay text в fornt-end"
+
+#~ msgid "This text will show as Total Cost text in fornt-end"
+#~ msgstr "Этот текст будет отображаться как текст общей стоимости в fornt-end"
+
+#~ msgid "This text will show as Book Now text in fornt-end"
+#~ msgstr "Этот текст будет отображаться как текст Book Now в fornt-end"
+
+#~ msgid "This text will show as Request For Quote text in fornt-end"
+#~ msgstr ""
+#~ "Этот текст будет отображаться как текст запроса на запрос в fornt-end"
+
+#~ msgid "Custom date range"
+#~ msgstr "Произвольный диапазон даты"
+
+#~ msgid "Add Inventory Items"
+#~ msgstr "Добавление номенклатуры"
+
+#~ msgid "Book Now Text"
+#~ msgstr "ЗАБРОНИРОВАТЬ"
+
+#~ msgid "Request For Quote Text"
+#~ msgstr "Запрос текста запроса"
+
+#~ msgid "This will be applicable for calendar date blocks"
+#~ msgstr "Это будет применимо для фиксации даты календаря блоков"
+
+#~ msgid "Products Date Format"
+#~ msgstr "Формат даты"
+
+#~ msgid "This will be applicable for all date calendar"
+#~ msgstr "Это будет применимо для всех Дата календаря"
+
+#~ msgid "Max Time Late (Hourly)"
+#~ msgstr "Макс. Время позднего (почасово)"
+
+#~ msgid "Another day will be count if anyone being late during departure"
+#~ msgstr ""
+#~ "Еще один день будет количество, если кто-нибудь опоздание во время вылета"
+
+#~ msgid "Max Bookings Days"
+#~ msgstr "Максимальное количество заказов"
+
+#~ msgid "Max Bookings Days (Number)"
+#~ msgstr "Максимальное количество дней бронирования (количество)"
+
+#~ msgid "Min Bookings Days"
+#~ msgstr "Минимальные сроки бронирования"
+
+#~ msgid "Min Bookings Days (Number)"
+#~ msgstr "Минимальные бронированные дни (число)"
+
+#~ msgid "Starting Block Days"
+#~ msgstr "Запуск дней блокировки"
+
+#~ msgid "No. of Block Days Before Booking Started"
+#~ msgstr "Количество дней блокировки до начала бронирования"
+
+#~ msgid "Post Bookings Block Days"
+#~ msgstr "Почтовые заказы Блочные дни"
+
+#~ msgid "No. of Block Days After a Booking"
+#~ msgstr "Количество блок-дней после бронирования"
+
+#~ msgid "Time Inverval in mins E.X - 20"
+#~ msgstr "Время расчета в E.X - 20 мин."
+
+#~ msgid "Allowed Times (Comma , separated)"
+#~ msgstr "Допустимые времена (запятая, разделенная)"
+
+#~ msgid "Write allowed times in comma separated e.x -10:00,12:00,14:00"
+#~ msgstr ""
+#~ "Запись разрешенных раз в разделенных запятой ex -10: 00,12: 00,14: 00"
+
+#~ msgid "Enter your language domain. E.x - de"
+#~ msgstr "Введите свой домен язык. E.x - de"
+
+#~ msgid ""
+#~ "Write weekday name in comma separated e.x - So, Mo, Di, Mi, Do, Fr, Sa"
+#~ msgstr ""
+#~ "Напишите название дня недели в разделенных запятыми e.x - так, Mo, Di,, "
+#~ "Fr, Mi, Sa"
+
+#~ msgid ""
+#~ "You must have to pay this percentage (%) amonut during booking. default "
+#~ "payamont value is 100%"
+#~ msgstr ""
+#~ "Вы должны платить этот процент (%) amonut во время бронирования. значение "
+#~ "payamont по умолчанию является 100%"
+
+#~ msgid "Show Price Info At Top in Price Flipbox"
+#~ msgstr "Показать цены информация на верхней Цена Flipbox"
+
+#~ msgid "Enter the text label E.x - Attributes Tab"
+#~ msgstr "Введите текстовую метку Ex - вкладка Атрибуты"
+
+#~ msgid "Enter the text label E.x - Features Tab"
+#~ msgstr "Введите текстовую метку Ex - вкладки «Особенности»"
+
+#~ msgid "Enter the text label E.x - Total Days"
+#~ msgstr "Введите текстовую метку Ex - Total Days"
+
+#~ msgid "Enter the text label E.x - Total Hours"
+#~ msgstr "Введите текстовую метку Ex - Всего часов"
+
+#~ msgid "Enter the text label E.x - Payment Due"
+#~ msgstr "Введите текстовую метку Ex - Payment Due"
+
+#~ msgid "Date Format Settings"
+#~ msgstr "Параметры формата"
+
+#~ msgid "Maximum time late (Hours)"
+#~ msgstr "Максимальное время конца"
+
+#~ msgid "time"
+#~ msgstr "время"
+
+#~ msgid "Max days"
+#~ msgstr "Макс дней"
+
+#~ msgid "Min days"
+#~ msgstr "Мин"
+
+#~ msgid "Time Inverval"
+#~ msgstr "Время подачи автомобиля"
+
+#~ msgid "Insert allowed time in comma seperated format like 10:00, 12:00"
+#~ msgstr ""
+#~ "Вставить допустимое время в формате, разделенном запятыми, например, "
+#~ "10:00, 12:00"
+
+#~ msgid "Min rental days is "
+#~ msgstr "Мин Аренда дней"
+
+#~ msgid "Person - "
+#~ msgstr "особа"
+
+#~ msgid "Car Company"
+#~ msgstr "Изображение компании"
+
+#~ msgid "Deposites"
+#~ msgstr "Установка безопасности deposites"
+
+#~ msgid "Total Total Cost"
+#~ msgstr "Общая сумма затрат"
+
+#~ msgctxt "post type general name"
+#~ msgid "Inventory"
+#~ msgstr "Инвентарь"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Inventory"
+#~ msgstr "Инвентарь"
+
+#~ msgctxt "admin menu"
+#~ msgid "Inventory"
+#~ msgstr "Инвентарь"
+
+#~ msgctxt "add new on admin bar"
+#~ msgid "Inventory"
+#~ msgstr "Инвентарь"
+
+#~ msgctxt "inventory"
+#~ msgid "Don't Create New Inventory From Here"
+#~ msgstr "Не создавайте новую инвентаризацию"
+
+#~ msgctxt "inventory"
+#~ msgid "Don't Crate New Inventory From Here"
+#~ msgstr "Не ящик новой инвентаризации здесь"
+
+#~ msgid "Max booking days is exceed"
+#~ msgstr "Макс дней бронирования превышает"
+
+#~ msgid "days:"
+#~ msgstr "Дни:"
+
+#~ msgid "/ day"
+#~ msgstr "/ день"
+
+#~ msgid "( Discount - "
+#~ msgstr "Скидка -"
+
+#~ msgid ")"
+#~ msgstr ")"
+
+#~ msgid "Drop Off Location"
+#~ msgstr "Конечный пункт доставки"
+
+#~ msgid "Pickup Date "
+#~ msgstr "Показать даты отправки"
+
+#~ msgid "Pickup Time "
+#~ msgstr "Время подачи автомобиля"
+
+#~ msgid "Return Date "
+#~ msgstr "Дата возврата"
+
+#~ msgid "Person "
+#~ msgstr "Пользователь"
+
+#~ msgid "Deposits"
+#~ msgstr "Депозиты"
+
+#~ msgid "Configure Your Global Settings For Rental Product"
+#~ msgstr "Настройте глобальные параметры для продукта Прокат"
+
+#~ msgid "Return Location Title"
+#~ msgstr "Место возврата название"
+
+#~ msgid "This text will show as return location title in fornt-end"
+#~ msgstr ""
+#~ "Этот текст будет отображаться как возвращение название местоположения в "
+#~ "fornt конец"
+
+#~ msgid "Pickup Date Title"
+#~ msgstr "Пикап Дата название"
+
+#~ msgid "This text will show as pickup date title in fornt-end"
+#~ msgstr "Этот текст будет отображаться как пикап Дата название в fornt конец"
+
+#~ msgid "Return Date Title"
+#~ msgstr "Дата возврата название"
+
+#~ msgid "This text will show as return date title in fornt-end"
+#~ msgstr ""
+#~ "Этот текст будет отображаться как возвращение Дата название в fornt конец"
+
+#~ msgid "Person Title"
+#~ msgstr "лицо Название"
+
+#~ msgid "This text will show as person title in fornt-end"
+#~ msgstr "Этот текст будет отображаться как название лица в fornt конец"
+
+#~ msgid "Deposite Title"
+#~ msgstr "Deposite название"
+
+#~ msgid "This text will show as deposite title in fornt-end"
+#~ msgstr "Этот текст будет отображаться как deposite титул в fornt конец"
+
+#~ msgid "Show Pricing Flip Box"
+#~ msgstr "Показать цены флип Box"
+
+#~ msgid "Show Request for a quote"
+#~ msgstr "Показать иконку Запросить предложение"
+
+#~ msgid "Show request for a quote button in the product single page."
+#~ msgstr "Показать запрос цитатой кнопки в одной странице продукта."
+
+#~ msgid "Show quote menu"
+#~ msgstr "Показать меню цитата"
+
+#~ msgid "Show request for a quote menu in the my account settings page"
+#~ msgstr ""
+#~ "Показать запрос цитатой меню в моей странице настройки учетной записи"
+
+#~ msgid "Hide Book Now Button"
+#~ msgstr "Кнопка \"Зарезервировать сейчас\""
+
+#~ msgid ""
+#~ "Hide Book Now button in the product single page, if you only want to show "
+#~ "only request for a qutoe button."
+#~ msgstr ""
+#~ "Скрыть кнопку забронировать в одной странице продукта, если вы только "
+#~ "хотите, чтобы показать только запрос для qutoe кнопки."
+
+#~ msgid "Enter Your Language Domain"
+#~ msgstr "Введите свой домен язык"
+
+#~ msgid "Enter Month Name"
+#~ msgstr "Введите название месяца"
+
+#~ msgid ""
+#~ "Write month name in comma separated e.x - Januar,Februar,März,April, Mai,"
+#~ "Juni,Juli,August,September,Oktober,November,Dezember"
+#~ msgstr ""
+#~ "Имя записи месяца в запятыми разделенных e.x - Januar, февраля, März, "
+#~ "Апрель, Май, Июнь, Juli, Август, Сентябрь, Октябрь, Ноябрь, Dezember"
+
+#~ msgid "Enter Week Day Name"
+#~ msgstr "Введите недели название дня"
+
+#~ msgid "Show/Hide"
+#~ msgstr "Показать/Скрыть"
+
+#~ msgid "Physical Appearence"
+#~ msgstr "Физическая Внешность"
+
+#~ msgid "Logicial Appearence"
+#~ msgstr "Logicial Внешность"
+
+#~ msgid "Validation"
+#~ msgstr "Проверка"
+
+#~ msgid "Person Heading Title"
+#~ msgstr "Человек заголовок заголовок"
+
+#~ msgid "Person title"
+#~ msgstr "лицо Название"
+
+#~ msgid "Person Placeholder"
+#~ msgstr "заполнитель"
+
+#~ msgid "Person placeholder"
+#~ msgstr "заполнитель"
+
+#~ msgid "Security Deposit"
+#~ msgstr "Предоплата"
+
+#~ msgid "Drop-off Location"
+#~ msgstr "Место сдачи"
+
+#~ msgid " Deposit "
+#~ msgstr "Предоплата :"
+
+#~ msgid "Discount Depend on Booking Days"
+#~ msgstr "Скидка зависит от бронирования дней"
+
+#~ msgid "Total Booking Cost"
+#~ msgstr "Это будет применяться при расчете стоимости заказа"
+
+#~ msgid "Security Deposites"
+#~ msgstr "Deposite безопасности"
+
+#~ msgid "Additional Person"
+#~ msgstr "Дополнительный человек"
+
+#~ msgid "- Select pick-up city -"
+#~ msgstr "-Пикап выберите город-"
+
+#~ msgid "- Select pick-up location -"
+#~ msgstr "-Выберите место встречи-"
+
+#~ msgid "Drop-off Date & Time"
+#~ msgstr "Дата и время возврата"
+
+#~ msgid "Drop-off Locations"
+#~ msgstr "Места сдачи"
+
+#~ msgid "- Select drop-off city -"
+#~ msgstr "- Выберите свал город -"
+
+#~ msgid "- Select drop-off location -"
+#~ msgstr "-Выберите место высадки-"
+
+#~ msgid "Pricing Plans"
+#~ msgstr "Тарифные планы"
+
+#~ msgctxt "inventory"
+#~ msgid "Add New"
+#~ msgstr "Добавить Новый"
+
+#~ msgid "Product Time Availabilities"
+#~ msgstr "Наличие времени продукта"
+
+#~ msgid "Maximum time late"
+#~ msgstr "Максимальное время конца"
+
+#~ msgid "Discount Depend on Booking Days :"
+#~ msgstr "Скидка Положитесь на Бронирование дней:"
+
+#~ msgid "Instance Pay During Booking : "
+#~ msgstr "Экземпляр оплаты при бронировании:"
+
+#~ msgid "Total Booking Cost : "
+#~ msgstr "Это будет применяться при расчете стоимости заказа"
+
+#~ msgid "show pricing"
+#~ msgstr "Показать цены"
+
+#~ msgid "Add New"
+#~ msgstr "Добавить новую"
+
+#~ msgid "Enable Single Day Time Based Booking"
+#~ msgstr "Включите один день времени на бронирование"
+
+#~ msgid "Drop-Off Cost"
+#~ msgstr "Доставка"
+
+#~ msgid "security_deposites"
+#~ msgstr "Deposite безопасности"
+
+#~ msgid "Person Count"
+#~ msgstr "Количество человек"
+
+#~ msgid "Dropoff Date"
+#~ msgstr "Дата прерывания"
+
+#~ msgid "DropOff Time"
+#~ msgstr "Спад время"
+
+#~ msgid "Drop-off Cost"
+#~ msgstr "Доставка"
+
+#~ msgid "Security Deposit Included"
+#~ msgstr "Депозит включен"

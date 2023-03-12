@@ -1,0 +1,12 @@
+2022-03-07T20:50:23+00:00 DEBUG Info: Beginning processing payment for order 1532 for the amount of 394.80
+2022-03-07T20:50:23+00:00 DEBUG Error: Credit card details cannot be left incomplete.
+2022-03-07T20:50:57+00:00 DEBUG Info: Beginning processing payment for order 1532 for the amount of 394.80
+2022-03-07T20:50:59+00:00 DEBUG 
+Posting to: 
+https://pay1.plugnpay.com/payment/pnpremote.cgi
+Request: 
+x_version=3.1&x_delim_char=%7C&x_delim_data=TRUE&x_relay_response=FALSE&x_encap_char=&x_method=CC&x_amount=394.80&x_card_num=4794+6800+0316+9746&x_exp_date=0923&x_card_code=879&x_first_name=Errolyn&x_last_name=Hurley&x_address=Bank+Hall&x_city=&x_state=ST.MICHAEL&x_country=BB&x_zip=&x_email=errolynhurley%40gmail.com&x_phone=2485664&x_company=&x_invoice_num=1532&x_description=Moco+-+Order+1532&x_currency_code=BBD&x_customer_ip=69.73.255.223&x_type=AUTH_CAPTURE&x_login=mococontai&x_tran_key=BradCoPay121%23
+Response: 
+1|00|1|This transaction has been approved.|452367||2022030720505707643|1532|Moco - Order 1532|394.80|CC|AUTH_CAPTURE||Errolyn|Hurley||Bank Hall||ST MICHAEL||BB|2485664||errolynhurley@gmail.com||||||||||||||||
+
+2022-03-07T20:50:59+00:00 DEBUG Success: Plug'n Pay charge complete (Charge ID: 2022030720505707643)

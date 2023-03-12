@@ -1,0 +1,20 @@
+2022-03-31T03:43:34+00:00 DEBUG Info: Beginning processing payment for order 1539 for the amount of 395.00
+2022-03-31T03:43:36+00:00 DEBUG 
+Posting to: 
+https://pay1.plugnpay.com/payment/pnpremote.cgi
+Request: 
+x_version=3.1&x_delim_char=%7C&x_delim_data=TRUE&x_relay_response=FALSE&x_encap_char=&x_method=CC&x_amount=395.00&x_card_num=5408+3710+1064+7610&x_exp_date=0922&x_card_code=021&x_first_name=RON&x_last_name=CUMBERBATCH&x_address=15+OAKWOOD+PARK+THORPES+ST+JAMES&x_city=&x_state=ST.JAMES&x_country=BB&x_zip=BB23007&x_email=roncum%40hotmail.com&x_phone=%2B12468234409&x_company=&x_invoice_num=1539&x_description=Moco+-+Order+1539&x_currency_code=BBD&x_customer_ip=192.214.115.80&x_type=AUTH_CAPTURE&x_login=mococontai&x_tran_key=BradCoPay121%23
+Response: 
+1|00|1|This transaction has been approved.|655978||2022033103433419026|1539|Moco - Order 1539|395.00|CC|AUTH_CAPTURE||RON|CUMBERBATCH||15 OAKWOOD PARK THORPES ST JAMES||ST JAMES|BB23007|BB|12468234409||roncum@hotmail.com||||||||||||||||
+
+2022-03-31T03:43:36+00:00 DEBUG Success: Plug'n Pay charge complete (Charge ID: 2022033103433419026)
+2022-03-31T15:35:40+00:00 DEBUG Info: Beginning processing payment for order 1540 for the amount of 1857.44
+2022-03-31T15:35:43+00:00 DEBUG 
+Posting to: 
+https://pay1.plugnpay.com/payment/pnpremote.cgi
+Request: 
+x_version=3.1&x_delim_char=%7C&x_delim_data=TRUE&x_relay_response=FALSE&x_encap_char=&x_method=CC&x_amount=1857.44&x_card_num=5443+3640+1160+4703&x_exp_date=01%2F26&x_card_code=267&x_first_name=Michele&x_last_name=Gibson&x_address=White+House+Terrace&x_city=Paynes+Bay&x_state=ST.JAMES&x_country=BB&x_zip=BB24009&x_email=micgibson%40outlook.com&x_phone=1-246-231-2740&x_company=&x_invoice_num=1540&x_description=Moco+-+Order+1540&x_currency_code=BBD&x_customer_ip=194.35.232.109&x_type=AUTH_CAPTURE&x_login=mococontai&x_tran_key=BradCoPay121%23
+Response: 
+1|00|1|This transaction has been approved.|918282||2022033115354007933|1540|Moco - Order 1540|1857.44|CC|AUTH_CAPTURE||Michele|Gibson||White House Terrace|Paynes Bay|ST JAMES|BB24009|BB|1-246-231-2740||micgibson@outlook.com||||||||||||||||
+
+2022-03-31T15:35:43+00:00 DEBUG Success: Plug'n Pay charge complete (Charge ID: 2022033115354007933)
